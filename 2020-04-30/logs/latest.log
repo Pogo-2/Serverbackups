@@ -1,0 +1,88 @@
+[21:16:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:16:28] [Server thread/INFO]: Loading properties
+[21:16:28] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:28] [Server thread/INFO]: Generating keypair
+[21:16:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:29] [Server thread/INFO]: Using epoll channel type
+[21:16:29] [Server thread/INFO]: Preparing level "world"
+[21:16:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:17:15] [Server thread/INFO]: Loaded 6 recipes
+[21:17:15] [Server thread/INFO]: Loaded 825 advancements
+[21:17:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server thread/INFO]: Preparing spawn area: 53%
+[21:17:24] [Server-Worker-1/INFO]: Preparing spawn area: 82%
+[21:17:25] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[21:17:25] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[21:17:26] [Server thread/INFO]: Preparing spawn area: 85%
+[21:17:26] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[21:17:27] [Server thread/INFO]: Time elapsed: 11018 ms
+[21:17:27] [Server thread/INFO]: Done (58.067s)! For help, type "help"
+[21:17:40] [User Authenticator #1/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[21:17:41] [Server thread/INFO]: bengermany64[/52.128.53.146:32652] logged in with entity id 332 at (7.122146622717713, 90.0, -79.4055806309626)
+[21:17:41] [Server thread/INFO]: bengermany64 joined the game
+[21:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[21:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11094ms or 221 ticks behind
+[21:18:37] [User Authenticator #2/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:18:37] [Server thread/INFO]: Tyler_Long[/52.144.111.182:26926] logged in with entity id 502 at (7.122146622717713, 90.0, -79.4055806309626)
+[21:18:37] [Server thread/INFO]: Tyler_Long joined the game
+[21:18:38] [Server thread/INFO]: Teleported Tyler_Long to bengermany64
+[21:18:40] [User Authenticator #3/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:18:40] [Server thread/INFO]: Tyler_Long lost connection: You logged in from another location
+[21:18:40] [Server thread/INFO]: Tyler_Long left the game
+[21:18:40] [Server thread/WARN]: handleDisconnection() called twice
+[21:18:40] [Server thread/INFO]: Tyler_Long[/52.144.111.182:14391] logged in with entity id 507 at (5.751549274080592, 90.0, -78.9156614206568)
+[21:18:40] [Server thread/INFO]: Tyler_Long joined the game
+[21:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16142ms or 322 ticks behind
+[21:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9282ms or 185 ticks behind
+[21:19:46] [Server thread/INFO]: Unknown command
+[21:19:46] [Server thread/INFO]: killtp Tyler_Long bengerma<--[HERE]
+[21:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9848ms or 196 ticks behind
+[21:20:09] [Server thread/INFO]: Teleported bengermany64 to Tyler_Long
+[21:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6631ms or 132 ticks behind
+[21:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
+[21:23:04] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[21:23:04] [Server thread/INFO]: Tyler_Long left the game
+[21:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[21:25:17] [Server thread/INFO]: bengermany64 was shot by Skeleton
+[21:28:15] [User Authenticator #4/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:28:15] [Server thread/INFO]: Tyler_Long[/52.144.111.182:15620] logged in with entity id 2345 at (257.8893722195138, 7.0, 370.69999998807907)
+[21:28:15] [Server thread/INFO]: Tyler_Long joined the game
+[21:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21:28:38] [Server thread/INFO]: Tyler_Long lost connection: Timed out
+[21:28:38] [Server thread/INFO]: Tyler_Long left the game
+[21:39:38] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:110) [server.jar:?]
