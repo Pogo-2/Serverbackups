@@ -1,0 +1,1980 @@
+[02:48:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:48:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:48:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:48:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:48:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:48:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[02:48:39] [Server thread/INFO]: Loading properties
+[02:48:39] [Server thread/INFO]: Default game type: SURVIVAL
+[02:48:39] [Server thread/INFO]: Generating keypair
+[02:48:39] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:110) [server.jar:?]
+[02:48:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:48:40] [Server thread/INFO]: Using epoll channel type
+[02:48:40] [Server thread/INFO]: Preparing level "world"
+[02:48:41] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[02:48:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:49:03] [Server thread/INFO]: Loaded 6 recipes
+[02:49:16] [Server thread/INFO]: Loaded 825 advancements
+[02:49:29] [Server thread/WARN]: Unable to find spawn biome
+[02:49:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:49:45] [Server-Worker-1/INFO]: Preparing spawn area: 6%
+[02:49:45] [Server-Worker-1/INFO]: Preparing spawn area: 6%
+[02:49:45] [Server-Worker-1/INFO]: Preparing spawn area: 7%
+[02:49:46] [Server-Worker-1/INFO]: Preparing spawn area: 7%
+[02:49:46] [Server-Worker-1/INFO]: Preparing spawn area: 8%
+[02:49:47] [Server-Worker-1/INFO]: Preparing spawn area: 8%
+[02:49:47] [Server-Worker-1/INFO]: Preparing spawn area: 10%
+[02:49:48] [Server-Worker-1/INFO]: Preparing spawn area: 10%
+[02:49:48] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+[02:49:49] [Server-Worker-1/INFO]: Preparing spawn area: 12%
+[02:49:50] [Server-Worker-1/INFO]: Preparing spawn area: 13%
+[02:49:50] [Server-Worker-1/INFO]: Preparing spawn area: 13%
+[02:49:50] [Server-Worker-1/INFO]: Preparing spawn area: 14%
+[02:49:51] [Server-Worker-1/INFO]: Preparing spawn area: 14%
+[02:49:51] [Server-Worker-1/INFO]: Preparing spawn area: 15%
+[02:49:52] [Server-Worker-1/INFO]: Preparing spawn area: 15%
+[02:49:53] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[02:49:53] [Server-Worker-1/INFO]: Preparing spawn area: 18%
+[02:49:53] [Server-Worker-1/INFO]: Preparing spawn area: 19%
+[02:49:54] [Server-Worker-1/INFO]: Preparing spawn area: 19%
+[02:49:54] [Server-Worker-1/INFO]: Preparing spawn area: 20%
+[02:49:55] [Server-Worker-1/INFO]: Preparing spawn area: 20%
+[02:49:55] [Server-Worker-1/INFO]: Preparing spawn area: 22%
+[02:49:56] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[02:49:56] [Server-Worker-1/INFO]: Preparing spawn area: 24%
+[02:49:57] [Server-Worker-1/INFO]: Preparing spawn area: 25%
+[02:49:58] [Server-Worker-1/INFO]: Preparing spawn area: 26%
+[02:49:58] [Server-Worker-1/INFO]: Preparing spawn area: 27%
+[02:49:58] [Server-Worker-1/INFO]: Preparing spawn area: 27%
+[02:49:59] [Server-Worker-1/INFO]: Preparing spawn area: 27%
+[02:49:59] [Server-Worker-1/INFO]: Preparing spawn area: 29%
+[02:50:00] [Server-Worker-1/INFO]: Preparing spawn area: 30%
+[02:50:00] [Server-Worker-1/INFO]: Preparing spawn area: 31%
+[02:50:01] [Server-Worker-1/INFO]: Preparing spawn area: 32%
+[02:50:01] [Server-Worker-1/INFO]: Preparing spawn area: 33%
+[02:50:02] [Server-Worker-1/INFO]: Preparing spawn area: 34%
+[02:50:02] [Server-Worker-1/INFO]: Preparing spawn area: 34%
+[02:50:03] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[02:50:03] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[02:50:04] [Server-Worker-1/INFO]: Preparing spawn area: 37%
+[02:50:04] [Server-Worker-1/INFO]: Preparing spawn area: 39%
+[02:50:05] [Server-Worker-1/INFO]: Preparing spawn area: 40%
+[02:50:05] [Server-Worker-1/INFO]: Preparing spawn area: 41%
+[02:50:06] [Server-Worker-1/INFO]: Preparing spawn area: 42%
+[02:50:07] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[02:50:07] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[02:50:07] [Server-Worker-1/INFO]: Preparing spawn area: 44%
+[02:50:08] [Server-Worker-1/INFO]: Preparing spawn area: 44%
+[02:50:08] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[02:50:09] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[02:50:09] [Server-Worker-1/INFO]: Preparing spawn area: 47%
+[02:50:10] [Server-Worker-1/INFO]: Preparing spawn area: 48%
+[02:50:10] [Server-Worker-1/INFO]: Preparing spawn area: 49%
+[02:50:11] [Server-Worker-1/INFO]: Preparing spawn area: 50%
+[02:50:12] [Server-Worker-1/INFO]: Preparing spawn area: 51%
+[02:50:12] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[02:50:12] [Server-Worker-1/INFO]: Preparing spawn area: 54%
+[02:50:13] [Server-Worker-1/INFO]: Preparing spawn area: 55%
+[02:50:13] [Server-Worker-1/INFO]: Preparing spawn area: 57%
+[02:50:14] [Server-Worker-1/INFO]: Preparing spawn area: 60%
+[02:50:14] [Server-Worker-1/INFO]: Preparing spawn area: 61%
+[02:50:15] [Server-Worker-1/INFO]: Preparing spawn area: 63%
+[02:50:16] [Server-Worker-1/INFO]: Preparing spawn area: 63%
+[02:50:16] [Server-Worker-1/INFO]: Preparing spawn area: 64%
+[02:50:17] [Server-Worker-1/INFO]: Preparing spawn area: 66%
+[02:50:17] [Server-Worker-1/INFO]: Preparing spawn area: 67%
+[02:50:17] [Server-Worker-1/INFO]: Preparing spawn area: 68%
+[02:50:18] [Server-Worker-1/INFO]: Preparing spawn area: 70%
+[02:50:18] [Server-Worker-1/INFO]: Preparing spawn area: 72%
+[02:50:19] [Server-Worker-1/INFO]: Preparing spawn area: 75%
+[02:50:19] [Server-Worker-1/INFO]: Preparing spawn area: 76%
+[02:50:20] [Server-Worker-1/INFO]: Preparing spawn area: 78%
+[02:50:20] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[02:50:21] [Server-Worker-1/INFO]: Preparing spawn area: 80%
+[02:50:21] [Server-Worker-1/INFO]: Preparing spawn area: 81%
+[02:50:22] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[02:50:22] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[02:50:23] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[02:50:23] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[02:50:25] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[02:50:25] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[02:50:25] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[02:50:25] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[02:50:26] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[02:50:27] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[02:50:27] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[02:50:27] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[02:50:28] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[02:50:28] [Server-Worker-1/INFO]: Preparing spawn area: 98%
+[02:50:29] [Server thread/INFO]: Time elapsed: 44296 ms
+[02:50:29] [Server thread/INFO]: Done (108.342s)! For help, type "help"
+[02:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[02:55:52] [User Authenticator #1/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[02:55:52] [Server thread/INFO]: bengermany64[/52.128.53.146:27193] logged in with entity id 669 at (-50.5, 63.0, 54.5)
+[02:55:52] [Server thread/INFO]: bengermany64 joined the game
+[02:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:56:47] [User Authenticator #2/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[02:56:47] [Server thread/INFO]: Tyler_Long[/52.144.111.182:26917] logged in with entity id 931 at (-37.5, 63.0, 66.5)
+[02:56:47] [Server thread/INFO]: Tyler_Long joined the game
+[02:58:05] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[02:58:05] [Server thread/INFO]: bengermany64 left the game
+[02:58:14] [User Authenticator #3/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[02:58:14] [Server thread/INFO]: bengermany64[/52.128.53.146:27197] logged in with entity id 1220 at (-48.15062886138939, 71.0, 130.65906650711338)
+[02:58:14] [Server thread/INFO]: bengermany64 joined the game
+[02:58:48] [Server thread/INFO]: bengermany64 has made the advancement [Stone Age]
+[02:59:05] [Server thread/INFO]: bengermany64 has made the advancement [Getting an Upgrade]
+[03:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[03:00:45] [User Authenticator #4/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[03:00:45] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:61072] logged in with entity id 1897 at (-56.5, 63.0, 50.5)
+[03:00:45] [Server thread/INFO]: MetYourDestiny joined the game
+[03:02:39] [Server thread/INFO]: MetYourDestiny has made the advancement [Stone Age]
+[03:02:48] [Server thread/INFO]: Tyler_Long has made the advancement [Getting an Upgrade]
+[03:02:52] [Server thread/INFO]: Tyler_Long has made the advancement [Stone Age]
+[03:02:54] [Server thread/INFO]: MetYourDestiny has made the advancement [Getting an Upgrade]
+[03:03:49] [Server thread/INFO]: Tyler_Long has made the advancement [Monster Hunter]
+[03:09:43] [Server thread/INFO]: MetYourDestiny has made the advancement [Acquire Hardware]
+[03:09:59] [Server thread/INFO]: MetYourDestiny has made the advancement [Isn't It Iron Pick]
+[03:10:48] [Server thread/INFO]: Tyler_Long has made the advancement [Acquire Hardware]
+[03:11:05] [Server thread/INFO]: Tyler_Long has made the advancement [Isn't It Iron Pick]
+[03:11:30] [Server thread/INFO]: bengermany64 has made the advancement [Isn't It Iron Pick]
+[03:15:04] [Server thread/INFO]: <Tyler_Long> tried to swim lava
+[03:15:12] [Server thread/INFO]: <MetYourDestiny> suffocated in a wall
+[03:15:39] [Server thread/WARN]: MetYourDestiny moved too quickly! -0.10602922295231565,0.12160004615783215,-10.11148713273684
+[03:17:20] [Server thread/INFO]: bengermany64 has made the advancement [Monster Hunter]
+[03:17:20] [Server thread/INFO]: Tyler_Long has made the advancement [Not Today, Thank You]
+[03:17:59] [Server thread/INFO]: Tyler_Long was blown up by Creeper
+[03:18:17] [Server thread/INFO]: <bengermany64> where is the<>?
+[03:18:41] [Server thread/INFO]: bengermany64 has made the advancement [Not Today, Thank You]
+[03:18:53] [Server thread/INFO]: MetYourDestiny was shot by Skeleton
+[03:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[03:21:19] [Server thread/INFO]: MetYourDestiny has made the advancement [Monster Hunter]
+[03:23:00] [Server thread/INFO]: bengermany64 has made the advancement [Acquire Hardware]
+[03:24:35] [Server thread/INFO]: Tyler_Long has made the advancement [Suit Up]
+[03:26:31] [User Authenticator #5/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[03:26:31] [Server thread/INFO]: N0VA_ow[/76.164.110.125:50916] logged in with entity id 7881 at (-56.5, 63.0, 48.5)
+[03:26:31] [Server thread/INFO]: N0VA_ow joined the game
+[03:26:43] [Server thread/INFO]: <N0VA_ow> im gonna say it
+[03:26:45] [Server thread/INFO]: <N0VA_ow> it
+[03:26:45] [Server thread/INFO]: <MetYourDestiny> it
+[03:26:54] [Server thread/INFO]: bengermany64 has made the advancement [Suit Up]
+[03:28:43] [Server thread/INFO]: N0VA_ow hit the ground too hard
+[03:29:36] [Server thread/INFO]: N0VA_ow has made the advancement [Stone Age]
+[03:29:50] [Server thread/INFO]: N0VA_ow has made the advancement [Monster Hunter]
+[03:31:58] [Server thread/INFO]: N0VA_ow has made the advancement [Getting an Upgrade]
+[03:32:48] [Server thread/INFO]: <Tyler_Long> EnwaRDO
+[03:33:58] [Server thread/INFO]: MetYourDestiny has made the advancement [Suit Up]
+[03:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4696ms or 93 ticks behind
+[03:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03:38:01] [Server thread/INFO]: Tyler_Long has made the advancement [Hot Stuff]
+[03:38:18] [Server thread/INFO]: N0VA_ow was slain by MetYourDestiny
+[03:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[03:42:16] [Server thread/INFO]: MetYourDestiny has made the advancement [Sweet Dreams]
+[03:42:26] [Server thread/INFO]: N0VA_ow has made the advancement [Sweet Dreams]
+[03:42:27] [Server thread/INFO]: Tyler_Long has made the advancement [Sweet Dreams]
+[03:42:37] [Server thread/INFO]: bengermany64 has made the advancement [Sweet Dreams]
+[03:42:45] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[03:42:45] [Server thread/INFO]: N0VA_ow left the game
+[03:42:49] [Server thread/INFO]: <bengermany64> leave
+[03:42:51] [Server thread/INFO]: <bengermany64> please
+[03:43:03] [User Authenticator #6/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[03:43:03] [Server thread/INFO]: N0VA_ow[/76.164.110.125:51543] logged in with entity id 12806 at (-17.178541140379224, 76.5625, 153.30000001192093)
+[03:43:03] [Server thread/INFO]: N0VA_ow joined the game
+[03:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6748ms or 134 ticks behind
+[03:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
+[03:47:39] [Server thread/INFO]: N0VA_ow was slain by MetYourDestiny
+[03:48:39] [Server thread/INFO]: N0VA_ow has made the advancement [Acquire Hardware]
+[03:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[03:48:57] [Server thread/INFO]: N0VA_ow has made the advancement [Suit Up]
+[03:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03:49:23] [Server thread/INFO]: N0VA_ow has made the advancement [Isn't It Iron Pick]
+[03:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6922ms or 138 ticks behind
+[03:49:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9635ms or 192 ticks behind
+[03:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10282ms or 205 ticks behind
+[03:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8795ms or 175 ticks behind
+[03:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[03:51:08] [Server thread/WARN]: bengermany64 moved wrongly!
+[03:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8812ms or 176 ticks behind
+[03:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9945ms or 198 ticks behind
+[03:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11099ms or 221 ticks behind
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.9984199617374401,0.0,-10.14684990319256
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.24773734899640942,0.0,-10.3735622744897
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.24289453515191894,0.0,-10.773010315401393
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.23557812231035768,0.0,-11.172404029445374
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.22584045963236576,0.0,-11.57173391089566
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.21375166596017436,0.0,-11.970992369449164
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.19938637127150116,0.0,-12.370172834603636
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.18283089449477075,0.0,-12.769270491867928
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.16417824012590643,0.0,-13.168281946973252
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.14352360053861446,0.0,-13.567204860333504
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.40558038767896676,0.0,-10.371925811943129
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.39485669074123564,0.0,-10.770507653619916
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3826070969371784,0.0,-11.1691468260492
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.36973084288582925,0.0,-11.567879192745863
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3569688875681436,0.0,-11.966721101531107
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.34491557423055497,0.0,-12.365674781995835
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3340484177555254,0.0,-12.764733080282895
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3247435000163108,0.0,-13.163882710837584
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3172855476075256,0.0,-13.563106866332873
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3118923749331657,0.0,-13.962386843896297
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.30871390330831616,0.0,-14.361703709879293
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3078542883375661,0.0,-14.761038796046705
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3086717199914517,0.0,-15.160408705665418
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3106344005739743,0.0,-15.55982279001455
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3132981165661022,0.0,-15.95928538977762
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.31629752560795055,0.0,-16.358797185468006
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.31933063061501343,0.0,-16.758356397911598
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3221524638101272,0.0,-17.157959574382403
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3245693953528246,0.0,-17.557602232795034
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.32642633603296645,0.0,-17.957279348345423
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.32760288640092483,0.0,-18.35698568345424
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3280098687074826,0.0,-18.75671606236449
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3275823698959499,0.0,-19.15646551397026
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3262773137353179,0.0,-19.55622942271566
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3240674418344014,0.0,-19.95600353029215
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.32093973034409373,0.0,-20.355784000496897
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3168939648729747,0.0,-20.755567473879637
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3119376245877561,0.0,-21.1553509641883
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.3060851119259098,0.0,-21.55513187320298
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.2993570588714789,0.0,-21.954907996636166
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.29177970295251043,0.0,-22.354677525717875
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.2833843254059616,0.0,-22.75443904117151
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.27420291394864194,0.0,-23.1541913513297
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.2642719233574411,0.0,-23.553933640736886
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.25362416467690707,0.0,-23.95366513077977
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.24229683239833832,0.0,-24.35338541127885
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.23032340272715146,0.0,-24.753094079545008
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.21774166786805438,0.0,-25.152791097258387
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.2045856412700573,0.0,-25.55247640757932
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.19088976696318127,0.0,-25.95215011953951
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.1766850451557076,0.0,-26.351812320091767
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.1620032072625861,0.0,-26.751463255131625
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.14687664243551524,0.0,-27.15110332105371
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.13133450125948798,0.0,-27.550732867162537
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.11540301960955901,0.0,-27.950352204106935
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.09910964041883119,0.0,-28.349961790284738
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.08247906232641355,0.0,-28.749562038254
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.06553351433974797,0.0,-29.149153311866485
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.048296832861950634,0.0,-29.548736132303702
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.030786640823961875,0.0,-29.94831077118863
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 0.01302262892733097,0.0,-30.34787766297177
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.0049736509001263585,0.0,-30.74743738864845
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.023186632220784986,0.0,-31.146990277399254
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.04159847494425151,0.0,-31.546536822927237
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.06019695305369055,0.0,-31.946077268399222
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.07896723283730012,0.0,-32.34561203010594
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.09789596418765711,0.0,-32.745141482708846
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.11697113200840192,0.0,-33.14466595967815
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.13617809264900416,0.0,-33.54418595857737
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.15550749665558783,0.0,-33.943701733498415
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.17495092951989477,0.0,-34.34321350939888
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.19449698835343554,0.0,-34.74272168618097
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.2141392406209235,0.0,-35.14222642631614
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.2338718968079263,0.0,-35.54172787975415
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.25368591652035377,0.0,-35.94122637516466
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.27357316340371085,0.0,-36.3407222083506
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.29353014457041127,0.0,-36.74021544809409
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.3135498865904651,0.0,-37.13970635373937
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.3336261133770364,0.0,-37.53919515869643
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.3537570062833879,0.0,-37.938681875593716
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.3739370986962456,0.0,-38.33816671323723
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.39416147066377505,0.0,-38.737649859552334
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.4144256942294504,0.0,-39.137131483671965
+[03:52:31] [Server thread/WARN]: MetYourDestiny moved too quickly! 2.7603503360322748,8.666800006365776,5.0
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.43472578423251207,0.0,-39.53661173781575
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.4550619840924668,0.0,-39.93609056154094
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.47543068282274703,0.0,-40.335568097889336
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.4958286305355557,0.0,-40.73504447559867
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.5162529023319422,0.0,-41.13451981053288
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.5367008658029135,0.0,-41.53399420696951
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.5571701517804541,0.0,-41.93346775875841
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.5776586280133955,0.0,-42.33294055036424
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.5981643754757329,0.0,-42.73241265780541
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.6186856670441188,0.0,-43.13188414949843
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.6392209483075817,0.0,-43.53135508701803
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.6597688202962786,0.0,-43.93082552578164
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.6803318535358187,0.0,-44.33029531449915
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.7009085319007511,0.0,-44.729764518175216
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.7214974908782068,0.0,-45.12923319531399
+[03:52:31] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.7420975024066365,0.0,-45.5287013985693
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.1763898543269562,0.0,-35.95483152726706
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.1970087657168307,0.0,-36.35429892018146
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.2176357344157367,0.0,-36.75376596763476
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.2382699546925693,0.0,-37.15323270417309
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.2589107013893681,0.0,-37.55269916088798
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.279557321863976,0.0,-37.95216536576174
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.3002092287384812,0.0,-38.35163134397851
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -1.3208658933727548,0.0,-38.75109711820403
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.1636084105214053,0.0,19.947408816217376
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.18388245512464607,0.0,19.547925053617973
+[03:52:32] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.20381214170907924,0.0,19.148425101482417
+[03:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29250ms or 585 ticks behind
+[03:53:24] [Server thread/WARN]: N0VA_ow moved too quickly! 10.057910745775871,-1.2491870787446828,-1.2869820624098622
+[03:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22150ms or 443 ticks behind
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.958980778179381,0.0,8.272891742007118
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.177533121611418,0.0,8.582519909293069
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.3972938963333945,0.0,8.89386654625389
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.618142259187522,0.0,9.20675980588112
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.839969451334639,0.0,9.521045025871217
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.87120423355762,0.0,8.3183564411637
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.100998881630744,0.0,8.643917588473641
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.330880863230789,0.0,8.96960169425381
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.560841445003007,0.0,9.29539646265414
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.790872766928288,0.0,9.621290827410007
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.020967754989641,0.0,9.947274828883565
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.251120042571955,0.0,10.273339503400734
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.481323899721758,0.0,10.599476783655405
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.711574169481082,0.0,10.925679409072018
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.941866210587847,0.0,11.251940845132822
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.172195845906344,0.0,11.578255210772
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.402559316014475,0.0,11.904617213030406
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.632953237432474,0.0,12.231022088245027
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.863374565028636,0.0,12.557465549119229
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.09382055818449,0.0,12.883943737086156
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.324855428465156,0.0,13.210045733259903
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.557477614937795,0.0,13.53500757121401
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.79245560697538,0.0,13.858193187046595
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.030369161489034,0.0,14.17908150991559
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.271642257776136,0.0,14.49725493292749
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.516571738015813,0.0,14.812387143210685
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.765349423616442,0.0,15.124233390876384
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.018084009233064,0.0,15.432617946189453
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.274817347565886,0.0,15.737424582397239
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.535535983885296,0.0,16.038590165356936
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.80018374433871,0.0,16.336095568691235
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.068670100095233,0.0,16.629959909554714
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.340882383353517,0.0,16.92022919546787
+[03:54:15] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.616686529749728,0.0,17.2069774853677
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.25443082071601,0.0,9.49736409551872
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.536974138823183,0.0,9.777360106104766
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.8226525150209625,0.0,10.05414976875602
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.1113039807843,0.0,10.327860651447509
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.402765188524882,0.0,10.598627899850612
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.696876552562372,0.0,10.866587660660116
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.993482092725657,0.0,11.13187716216828
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.292429278692765,0.0,11.394634760704548
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.59357115859865,0.0,11.654996897891237
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.89676593529984,0.0,11.913098388971662
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.201878842538491,0.0,12.16906959031462
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.508362626091895,0.0,12.423599965771473
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 10.815321798108982,0.0,12.67780319417227
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.122000785469993,0.0,12.93256459928375
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.427770653565744,0.0,13.188578391018495
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 11.732115235449442,0.0,13.446380172968816
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.034617062962752,0.0,13.706375221298003
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.334948862173434,0.0,13.968857675390836
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.632856857989935,0.0,14.234035302860775
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 12.92815591276954,0.0,14.502040451996777
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 13.220716297913327,0.0,14.772947422876086
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 13.510454004849692,0.0,15.04678496653355
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 13.797327419140203,0.0,15.323542126954521
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 14.081328316418933,0.0,15.603178341746343
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 14.36247934294829,0.0,15.885627311747157
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 14.640822745955319,0.0,16.170807675347646
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 14.916421874329444,0.0,16.45862265581593
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 15.189353528949027,0.0,16.748966928113077
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 15.459703935273211,0.0,17.04173023788894
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 15.727571073551076,0.0,17.336795843641426
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 15.993054650190004,0.0,17.634048504253656
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 16.256262155687807,0.0,17.933369851156385
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 16.517302148110815,0.0,18.234643547676114
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 16.776284252507708,0.0,18.537755227406365
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 17.03331607397905,0.0,18.842594714894517
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 17.2885065494051,0.0,19.149053401174115
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 17.541959714104934,0.0,19.457028747454842
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 17.7937783193739,0.0,19.766421450380903
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 18.044060913598543,0.0,20.077137446793927
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 18.2929053862035,0.0,20.389085165714732
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 18.54040287005492,0.0,20.702179838880966
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 18.786641529596494,0.0,21.016340585300668
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 19.032265641923374,0.0,21.33107825128775
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 19.278348653645054,0.0,21.64555005297973
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 19.526259603396397,0.0,21.95859340826985
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 19.77754143247367,0.0,22.268738455722428
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 20.033327965111823,0.0,22.57473703077744
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 20.294419731758353,0.0,22.87555591317141
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 20.561351530152592,0.0,23.17036046408998
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 20.834447370413756,0.0,23.45849688584599
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 21.11386678892447,0.0,23.739471679070675
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 21.399641568738105,0.0,24.01293282822371
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 21.691702667292674,0.0,24.278656914217436
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 21.989908344280934,0.0,24.536525641416688
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 22.294063706258157,0.0,24.786509683338977
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 22.603935171270166,0.0,25.028656429250304
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 22.919262473739195,0.0,25.263078143988764
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 23.23977002392911,0.0,25.489937120854393
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 23.56517465042063,0.0,25.709435244494443
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 23.895190430022012,0.0,25.921807747233515
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 24.229533988363073,0.0,26.127313747133826
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 24.567927381707307,0.0,26.32623104868935
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 24.910101666608995,0.0,26.5188476897315
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 25.25579716962494,0.0,26.70546138748182
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 25.604766080713432,0.0,26.886371714215898
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 25.956773256198744,0.0,27.061876562721977
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 26.311596762625413,0.0,27.232268898158623
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 26.669025888908834,0.0,27.39784107669061
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 27.028863972905725,0.0,27.558874104909364
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 27.39092615460396,0.0,27.715642535471147
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 27.75503962642071,0.0,27.868411545525078
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 28.121043761613095,0.0,28.017434276565268
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 28.48878906383206,0.0,28.162953090150268
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 28.858136203094233,0.0,28.30520069339468
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 29.228956209864492,0.0,28.44439746480498
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 29.601129535868495,0.0,28.58075271414907
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 29.974546237003977,0.0,28.71446212643866
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 30.34910402199614,0.0,28.84571282734362
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 30.724708597251208,0.0,28.974680569715815
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 31.101455119465413,0.0,29.10085713535659
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 31.47955674635,0.0,29.223172607286415
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 31.859257336068453,0.0,29.340106339588033
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 32.240742017510854,0.0,29.44977464157853
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 32.62401596749348,0.0,29.55070689467982
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 33.00896173386013,0.0,29.641795190327002
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 33.395383357064986,0.0,29.722237217269026
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 33.783039258589525,0.0,29.791493617308674
+[03:54:17] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 34.17166645002192,0.0,29.84924400787088
+[03:54:17] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[03:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40457ms or 809 ticks behind
+[03:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17592ms or 351 ticks behind
+[03:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17213ms or 344 ticks behind
+[03:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19338ms or 386 ticks behind
+[03:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16117ms or 322 ticks behind
+[03:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14566ms or 291 ticks behind
+[03:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12742ms or 254 ticks behind
+[03:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10740ms or 214 ticks behind
+[03:58:17] [Server thread/INFO]: <bengermany64> z
+[03:58:18] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[03:58:18] [Server thread/INFO]: N0VA_ow left the game
+[03:58:18] [Server thread/INFO]: <bengermany64> z
+[03:58:23] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[03:58:23] [Server thread/INFO]: MetYourDestiny left the game
+[03:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11444ms or 228 ticks behind
+[03:58:39] [User Authenticator #7/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[03:58:39] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:62835] logged in with entity id 24098 at (-719.9365650467888, 66.0, -226.12171737487637)
+[03:58:39] [Server thread/INFO]: MetYourDestiny joined the game
+[03:58:39] [User Authenticator #8/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[03:58:39] [Server thread/INFO]: MetYourDestiny lost connection: You logged in from another location
+[03:58:39] [Server thread/INFO]: MetYourDestiny left the game
+[03:58:39] [Server thread/WARN]: handleDisconnection() called twice
+[03:58:39] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:62842] logged in with entity id 24099 at (-719.9365650467888, 66.0, -226.12171737487637)
+[03:58:39] [Server thread/INFO]: MetYourDestiny joined the game
+[03:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[03:58:53] [User Authenticator #9/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[03:58:53] [Server thread/INFO]: N0VA_ow[/76.164.110.125:52203] logged in with entity id 24377 at (1076.9929826179964, 70.0, 664.1196136964778)
+[03:58:53] [Server thread/INFO]: N0VA_ow joined the game
+[03:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12474ms or 249 ticks behind
+[03:59:38] [Server thread/INFO]: bengermany64 has made the advancement [Diamonds!]
+[03:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12250ms or 245 ticks behind
+[04:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12906ms or 258 ticks behind
+[04:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[04:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17126ms or 342 ticks behind
+[04:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14498ms or 289 ticks behind
+[04:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18458ms or 369 ticks behind
+[04:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12702ms or 254 ticks behind
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -6.988311511747266,0.0,7.699986373184068
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -7.256336068288917,0.0,7.996893028180381
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -7.524340861715508,0.0,8.293819059407909
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -7.792327868339019,0.0,8.590762529243058
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -8.060298866840178,0.0,8.887721693824659
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -8.328255458031606,0.0,9.184694983677687
+[04:02:48] [Server thread/WARN]: N0VA_ow moved too quickly! -9.622604288432058,-1.044812420399012,-3.6728819803729493
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -8.596199082644617,0.0,9.481680986274668
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -8.864131037337362,0.0,9.778678430340896
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -9.132049639255069,0.0,10.075688740316842
+[04:02:48] [Server thread/WARN]: Tyler_Long moved too quickly! 0.05756448977638762,1.0,10.193700326788075
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -9.39995622367556,0.0,10.372710629611227
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -9.667851992348844,0.0,10.669742940291925
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -9.935738026849897,0.0,10.966784630220062
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -10.203615300596176,0.0,11.263834761470662
+[04:02:48] [Server thread/WARN]: MetYourDestiny moved too quickly! -9.941264199308876,2.1416851727245216,-0.419362738794149
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -10.471484689663367,0.0,11.56089248991129
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -10.739346982519567,0.0,11.857957055822752
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -11.007202888786043,0.0,12.155027775457803
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -11.275053047121922,0.0,12.452104033443945
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -11.542898032320398,0.0,12.749185275945926
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -11.810738361695336,0.0,13.04627100451205
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -12.078574500829198,0.0,13.343360770535796
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -12.346406868746197,0.0,13.640454170271305
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -12.614235842568107,0.0,13.937550840347313
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -12.882061761704517,0.0,14.234650453729692
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -13.149884931624047,0.0,14.53175271608773
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -13.417705627248456,0.0,14.828857362523806
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -13.685524096007313,0.0,15.125964154630054
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -13.953340560587225,0.0,15.42307287783941
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -14.221155221406136,0.0,15.720183339041512
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -14.488968258840188,0.0,16.017295364437047
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -14.756779835227906,0.0,16.31440879760663
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -15.024590096673958,0.0,16.611523497772836
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -15.292399174672543,0.0,16.908639338235957
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -15.560207187568434,0.0,17.205756204966285
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -15.828014241871927,0.0,17.50287399533707
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -16.095820433442285,0.0,17.79999261698424
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -16.36362584855284,0.0,18.097111986780142
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -16.631430564849595,0.0,18.394232029909887
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -16.89923465221394,0.0,18.691352679040072
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -17.167038173539137,0.0,18.98847387357064
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -17.434841185429114,0.0,19.28559555896154
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -17.7026437388274,0.0,19.58271768612672
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -17.97044587958318,0.0,19.87984021088875
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -18.238247648960716,0.0,20.176963093487934
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -18.506049084097835,0.0,20.47408629814054
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -18.77385021841859,0.0,20.77120979264123
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -19.041651082004627,0.0,21.068333548005178
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -19.30945170192942,0.0,21.36545753814606
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -19.5772521025591,0.0,21.662581739586173
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -19.845052305823184,0.0,21.95970613119559
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -20.11285233145824,0.0,22.256830693957376
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -20.38065219722717,0.0,22.553955410756288
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -20.64845191911659,0.0,22.851080266188617
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -20.91625151151446,0.0,23.148205246391008
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -21.18405098736993,0.0,23.445330338886457
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -21.451850358337254,0.0,23.74245553244566
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -21.719649634905238,0.0,24.039580816962236
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -21.98744882651382,0.0,24.33670618334044
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -22.25524794165895,0.0,24.63383162339411
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -22.52304698798697,0.0,24.930957129755697
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -22.790845972379593,0.0,25.228082695794413
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.058644901030355,0.0,25.525208315542542
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.326443779513454,0.0,25.822333983629136
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.594242612845647,0.0,26.11945969522035
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.862041405542037,0.0,26.416585445965723
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.129840161666195,0.0,26.713711231949837
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.39763888487535,0.0,27.01083704964882
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.665437578460995,0.0,27.30796289589118
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.933236245385494,0.0,27.60508876782258
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.201034888314958,0.0,27.902214662874115
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.46883350964889,0.0,28.199340578733775
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.736632111546843,0.0,28.49646651332074
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -26.004430695952415,0.0,28.793592464762284
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -26.272229264614847,0.0,29.09071843137295
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -26.540027819108452,0.0,29.387844411635818
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -26.80782636085011,0.0,29.684970404185677
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -27.075624891115023,0.0,29.98209640779382
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -27.343423411050857,0.0,30.27922242135442
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -27.61122192169053,0.0,30.576348443872234
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -27.87902042396365,0.0,30.87347447445154
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -28.146818918706877,0.0,31.170600512286185
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -28.414617406673198,0.0,31.46772655665064
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -28.682415888540305,0.0,31.764852606891914
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -28.950214364918118,0.0,32.061978662422334
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -22.49774784016727,0.0,24.95600347537888
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -22.765546307158395,0.0,25.253129539953733
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.033344770147824,0.0,25.550255608384376
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.301143229535732,0.0,25.847381680285224
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.568941685682265,0.0,26.144507755309256
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -23.836740138911566,0.0,26.44163383314416
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.104538589515357,0.0,26.738759913508844
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.372337037756186,0.0,27.035885996150327
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.64013548387035,0.0,27.33301208084093
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -24.907933928070516,0.0,27.630138167375748
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.175732370548086,0.0,27.92726425557035
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.443008305983348,0.0,28.224853078467895
+[04:02:48] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -25.708798735453236,0.0,28.52371262008127
+[04:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23477ms or 469 ticks behind
+[04:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11968ms or 239 ticks behind
+[04:03:55] [Server thread/INFO]: N0VA_ow has made the advancement [What a Deal!]
+[04:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10802ms or 216 ticks behind
+[04:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9395ms or 187 ticks behind
+[04:04:43] [Server thread/INFO]: N0VA_ow has made the advancement [A Seedy Place]
+[04:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11674ms or 233 ticks behind
+[04:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13312ms or 266 ticks behind
+[04:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12286ms or 245 ticks behind
+[04:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11169ms or 223 ticks behind
+[04:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4742ms or 94 ticks behind
+[04:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9030ms or 180 ticks behind
+[04:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15239ms or 304 ticks behind
+[04:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9584ms or 191 ticks behind
+[04:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8572ms or 171 ticks behind
+[04:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11470ms or 229 ticks behind
+[04:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9050ms or 181 ticks behind
+[04:09:35] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9238ms or 184 ticks behind
+[04:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12980ms or 259 ticks behind
+[04:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11040ms or 220 ticks behind
+[04:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13571ms or 271 ticks behind
+[04:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11879ms or 237 ticks behind
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.28681868753230333,0.0,10.394758546387493
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2969004005961722,0.0,10.794621483139508
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.30695559126436933,0.0,11.194485971342147
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.31698691177709293,0.0,11.594351855850618
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.32699674915045307,0.0,11.994218997034295
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.642863053852949,0.0,-9.239670331413976
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.33698725169890054,0.0,12.394087269225565
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.768404851304467,0.0,-9.607902782532335
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.34696035290537,0.0,12.79395655932376
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.896745850445399,0.0,-9.976248050529549
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.027450182006277,0.0,-10.344759293786609
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.35691779290448267,0.0,13.193826765538233
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.3668611378173523,0.0,13.593697796256947
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.1601395055539,0.0,-10.713477924994109
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.29449088503911,0.0,-11.08243351539754
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.3767917971529471,0.0,13.99356956902966
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.430220634073677,0.0,-11.45164942321341
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.3867110394692759,0.0,14.393442009651153
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.567091118867992,0.0,-11.821139250057769
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.39662000646856654,0.0,14.793315051336322
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.40651972568275596,0.0,15.193188633978934
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.704895501433839,0.0,-12.190912164020219
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.843454684217903,0.0,-12.560973402621329
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.4164111218905475,0.0,15.593062703483156
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.982618128168809,0.0,-12.93132332103987
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.42629502739282543,0.0,15.99293721116237
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2579852464259318,0.0,10.396678487152258
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2678207759535667,0.0,10.796555824626921
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2776544014450053,0.0,11.19643327347967
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2874863133039298,0.0,11.596310822572832
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.29661881780094745,0.0,11.996199570698082
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 3.5685244096381723,0.0,-9.644521501139465
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 3.7086045414571345,0.0,-10.018325310004485
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.30379891657011626,0.0,12.396085933130962
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 3.8485702582390218,0.0,-10.392258297106437
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.3073298965929325,0.0,12.795876110937115
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.30588169673850985,0.0,13.195418849645648
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 3.9884222130495743,0.0,-10.766311538129742
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.29843611181098595,0.0,13.594532906970471
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.128160991785279,0.0,-11.14047700119059
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.267790717589435,0.0,-11.51474612393983
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.28423260095274827,0.0,13.993025656833652
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2627302989925795,0.0,14.39070726626187
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.407315101290919,0.0,-11.889111200263415
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.546733884005192,0.0,-12.26356661713696
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.2335734834676657,0.0,14.787400429655008
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.1965566965450023,0.0,15.182945497471792
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.686054028134379,0.0,-12.638104666706667
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.825278200278461,0.0,-13.012719738107634
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.15159717829638453,0.0,15.577203628005918
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.09871021683400727,0.0,15.97005776134074
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.965061586721703,0.0,-13.387159779913645
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.106573425524374,0.0,-13.760942986979089
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! 0.0379944270522401,0.0,16.361414438405973
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.03038863150408133,0.0,16.751201966158078
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.251358004856826,0.0,-14.133353514141959
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.1958201053814435,0.0,10.188805067130488
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.3257553941301126,0.0,10.562578994266914
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.4595528210452073,0.0,10.935250668169829
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.5957865610423596,0.0,11.30739550236467
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.257280305725033,0.0,-9.398263692534563
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.732613661613442,0.0,11.679714135477298
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.4883244096124315,0.0,-9.71887964289565
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.8678492533892381,0.0,12.052929659839265
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.999707692967661,0.0,12.427515355899232
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.725106744231198,0.0,-10.035148636066594
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.1267547613184945,0.0,12.803756002449063
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 4.968188992107258,0.0,-10.346272984097325
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.247860012744354,0.0,13.181796719105023
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.218357159508258,0.0,-10.651072131500207
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.4764942473399,0.0,-10.948017466317076
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.36215815207575,0.0,13.561680219019763
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 5.743463106856979,0.0,-11.235260509659028
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.4690120352480562,0.0,13.943376305555375
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.019693818642821,0.0,-11.511299762654488
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.5679739320620456,0.0,14.326805114957551
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.6587609984872245,0.0,14.711853977921237
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.3052932165242055,0.0,-11.77495380174652
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.6001281742260005,0.0,-12.025338216507045
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.741220962468674,0.0,15.098390881363684
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 6.903894710927233,0.0,-12.261832336694809
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.8153198796910317,0.0,15.486273909263673
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.216170951265383,0.0,-12.484049902212554
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.881107766004078,0.0,15.875358387133929
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.536460665442519,0.0,-12.691800415917712
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.938710449419716,0.0,16.265501982119986
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 7.864223760492337,0.0,-12.885065824336806
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -2.988310592263332,0.0,16.65656809726852
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.198901684685865,0.0,-13.063965811461856
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.53993430122918,0.0,-13.228739975377131
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 8.88677359937617,0.0,-13.379719170596779
+[04:11:35] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! 9.238892558733568,0.0,-13.5173064787354
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -3.0301381876304845,0.0,17.04842831914857
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -3.064458124969491,0.0,17.440963763891887
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -3.0915589809454502,0.0,17.83406561062793
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.7666961435465112,0.0,18.23000436979055
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.0950893903878693,0.0,10.206128718188666
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.133501213523374,0.0,10.5958966012181
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.121918021414814,0.0,10.200721766672359
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.184559479295416,0.0,10.585585481186627
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.257304057711707,0.0,10.968460933265305
+[04:11:35] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -1.3390118713221,0.0,11.349604776881279
+[04:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14809ms or 296 ticks behind
+[04:12:17] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[04:12:17] [Server thread/INFO]: bengermany64 left the game
+[04:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9337ms or 186 ticks behind
+[04:12:28] [User Authenticator #10/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[04:12:28] [Server thread/INFO]: bengermany64[/52.128.53.146:32679] logged in with entity id 37079 at (321.699999988079, 63.0, -0.8192237036966039)
+[04:12:28] [Server thread/INFO]: bengermany64 joined the game
+[04:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8201ms or 164 ticks behind
+[04:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9151ms or 183 ticks behind
+[04:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16145ms or 322 ticks behind
+[04:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15468ms or 309 ticks behind
+[04:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12174ms or 243 ticks behind
+[04:14:41] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10401ms or 208 ticks behind
+[04:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10960ms or 219 ticks behind
+[04:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10691ms or 213 ticks behind
+[04:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8639ms or 172 ticks behind
+[04:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9422ms or 188 ticks behind
+[04:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10704ms or 214 ticks behind
+[04:17:07] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[04:17:07] [Server thread/INFO]: MetYourDestiny left the game
+[04:17:07] [Server thread/INFO]: <N0VA_ow> z
+[04:17:19] [Server thread/INFO]: <N0VA_ow> leave or z
+[04:17:23] [Server thread/INFO]: <N0VA_ow> you you big gay
+[04:17:29] [Server thread/INFO]: <bengermany64> z
+[04:17:29] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[04:17:29] [Server thread/INFO]: Tyler_Long left the game
+[04:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9212ms or 184 ticks behind
+[04:17:41] [User Authenticator #11/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[04:17:41] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:63431] logged in with entity id 41676 at (-1509.3935100516096, 62.9375, -415.7988072600111)
+[04:17:41] [Server thread/INFO]: MetYourDestiny joined the game
+[04:17:45] [User Authenticator #12/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[04:17:45] [Server thread/INFO]: Tyler_Long[/52.144.111.182:26920] logged in with entity id 41898 at (-217.7263007265558, 62.073264889255626, 5038.559218110907)
+[04:17:45] [Server thread/INFO]: Tyler_Long joined the game
+[04:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[04:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12101ms or 242 ticks behind
+[04:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7946ms or 158 ticks behind
+[04:19:21] [Server thread/WARN]: bengermany64 moved too quickly! 10.015924750410704,-1.0554624345250403,0.414216548023532
+[04:19:21] [Server thread/WARN]: N0VA_ow moved too quickly! -5.701969991546775,-1.0244240882136921,-8.450511000820029
+[04:19:21] [Server thread/WARN]: MetYourDestiny moved too quickly! -7.4237953859296795,-3.464159374955443,-5.879611969932284
+[04:19:22] [Server thread/WARN]: MetYourDestiny moved too quickly! -91.121170114184,1.2336320060424768,6.2687474308315245
+[04:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56452ms or 1129 ticks behind
+[04:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14354ms or 287 ticks behind
+[04:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13613ms or 272 ticks behind
+[04:20:57] [Server thread/WARN]: MetYourDestiny moved too quickly! -9.351123389211125,2.252203340253729,3.2998887933039214
+[04:20:57] [Server thread/WARN]: bengermany64 moved too quickly! 0.6298937183398721,-1.0,9.93593328346222
+[04:20:58] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:21:12] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[04:21:12] [Server thread/INFO]: bengermany64 left the game
+[04:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16209ms or 324 ticks behind
+[04:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[04:21:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[04:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
+[04:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3647ms or 72 ticks behind
+[04:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[04:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
+[04:23:26] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[04:23:26] [Server thread/INFO]: Tyler_Long left the game
+[04:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4770ms or 95 ticks behind
+[04:25:16] [Server thread/INFO]: Stopping server
+[04:25:16] [Server thread/INFO]: Saving players
+[04:25:16] [Server thread/INFO]: Saving worlds
+[04:25:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:25:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:25:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:25:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:25:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:25:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:29:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:29:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:29:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:29:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:29:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:29:56] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[04:29:56] [Server thread/INFO]: Loading properties
+[04:29:56] [Server thread/INFO]: Default game type: SURVIVAL
+[04:29:56] [Server thread/INFO]: Generating keypair
+[04:29:56] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:110) [server.jar:?]
+[04:29:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:29:56] [Server thread/INFO]: Using epoll channel type
+[04:29:57] [Server thread/INFO]: Preparing level "world"
+[04:29:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[04:29:59] [User Authenticator #1/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[04:30:45] [Server thread/INFO]: Loaded 6 recipes
+[04:30:46] [Server thread/INFO]: Loaded 825 advancements
+[04:30:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[04:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:54] [Server thread/INFO]: Preparing spawn area: 29%
+[04:30:55] [Server thread/INFO]: Preparing spawn area: 39%
+[04:30:55] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[04:30:55] [User Authenticator #2/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[04:30:56] [Server thread/INFO]: Time elapsed: 9232 ms
+[04:30:56] [Server thread/INFO]: Done (58.981s)! For help, type "help"
+[04:30:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@33ac5af8[id=06569aed-1c53-4a5f-9780-294e986feeb0,name=N0VA_ow,properties={textures=[com.mojang.authlib.properties.Property@7294cd93]},legacy=false] (/76.164.110.125:53111) lost connection: Disconnected
+[04:30:56] [Server thread/INFO]: N0VA_ow[/76.164.110.125:53172] logged in with entity id 84 at (948.9452438918285, 79.0, -1588.0186374344257)
+[04:30:56] [Server thread/INFO]: N0VA_ow joined the game
+[04:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[04:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
+[04:32:00] [User Authenticator #3/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[04:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10914ms or 218 ticks behind
+[04:32:02] [Server thread/INFO]: bengermany64[/52.128.53.146:32654] logged in with entity id 631 at (1377.7352855937015, 69.0, 131.20239616516332)
+[04:32:02] [Server thread/INFO]: bengermany64 joined the game
+[04:32:24] [User Authenticator #4/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[04:32:25] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:63853] logged in with entity id 993 at (-2161.054881312158, 74.0, -186.90795572623557)
+[04:32:25] [Server thread/INFO]: MetYourDestiny joined the game
+[04:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12851ms or 257 ticks behind
+[04:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19382ms or 387 ticks behind
+[04:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9623ms or 192 ticks behind
+[04:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11520ms or 230 ticks behind
+[04:34:07] [Server thread/WARN]: N0VA_ow moved wrongly!
+[04:34:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15065ms or 301 ticks behind
+[04:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7458ms or 149 ticks behind
+[04:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11504ms or 230 ticks behind
+[04:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9624ms or 192 ticks behind
+[04:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12306ms or 246 ticks behind
+[04:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11050ms or 221 ticks behind
+[04:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8271ms or 165 ticks behind
+[04:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6961ms or 139 ticks behind
+[04:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
+[04:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3505ms or 70 ticks behind
+[04:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9968ms or 199 ticks behind
+[04:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14900ms or 298 ticks behind
+[04:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4110ms or 82 ticks behind
+[04:39:22] [Server thread/WARN]: MetYourDestiny moved too quickly! 10.045111266879758,0.5813359922251635,-1.3427386046326433
+[04:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9159ms or 183 ticks behind
+[04:39:36] [Server thread/INFO]: <N0VA_ow> z
+[04:39:37] [Server thread/WARN]: N0VA_ow was kicked for floating too long!
+[04:39:37] [Server thread/INFO]: N0VA_ow lost connection: Flying is not enabled on this server
+[04:39:37] [Server thread/INFO]: N0VA_ow left the game
+[04:39:37] [Server thread/WARN]: handleDisconnection() called twice
+[04:39:50] [User Authenticator #5/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[04:39:50] [Server thread/INFO]: N0VA_ow[/76.164.110.125:53431] logged in with entity id 6346 at (1272.299999974668, 89.0000002, -1886.700000025332)
+[04:39:50] [Server thread/INFO]: N0VA_ow joined the game
+[04:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04:39:57] [Server thread/WARN]: bengermany64 was kicked for floating too long!
+[04:39:57] [Server thread/INFO]: bengermany64 lost connection: Flying is not enabled on this server
+[04:39:57] [Server thread/INFO]: bengermany64 left the game
+[04:39:57] [Server thread/WARN]: handleDisconnection() called twice
+[04:40:04] [Server thread/INFO]: <N0VA_ow> z
+[04:40:04] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:05] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: <N0VA_ow> z
+[04:40:06] [Server thread/INFO]: N0VA_ow lost connection: Kicked for spamming
+[04:40:06] [Server thread/INFO]: N0VA_ow left the game
+[04:40:06] [Server thread/WARN]: handleDisconnection() called twice
+[04:40:08] [User Authenticator #6/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[04:40:09] [Server thread/INFO]: bengermany64[/52.128.53.146:32650] logged in with entity id 6889 at (2118.299999974668, 90.0000002, 213.29999997466803)
+[04:40:09] [Server thread/INFO]: bengermany64 joined the game
+[04:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
+[04:40:14] [Server thread/INFO]: <bengermany64> z
+[04:40:16] [User Authenticator #7/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[04:40:16] [Server thread/INFO]: N0VA_ow[/76.164.110.125:53447] logged in with entity id 7103 at (1272.299999974668, 89.0000002, -1886.700000025332)
+[04:40:16] [Server thread/INFO]: N0VA_ow joined the game
+[04:40:23] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[04:40:23] [Server thread/INFO]: MetYourDestiny left the game
+[04:40:32] [User Authenticator #8/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[04:40:32] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:64093] logged in with entity id 7618 at (-2075.463357644662, 63.0, -238.11845264504518)
+[04:40:32] [Server thread/INFO]: MetYourDestiny joined the game
+[04:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4639ms or 92 ticks behind
+[04:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[04:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[04:41:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[04:41:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8244ms or 164 ticks behind
+[04:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7043ms or 140 ticks behind
+[04:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[04:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7915ms or 158 ticks behind
+[04:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[04:44:35] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[04:44:35] [Server thread/INFO]: bengermany64 left the game
+[04:44:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04:44:42] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[04:44:42] [Server thread/INFO]: N0VA_ow left the game
+[04:45:04] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[04:45:04] [Server thread/INFO]: MetYourDestiny left the game
+[14:28:25] [User Authenticator #9/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[14:28:26] [Server thread/INFO]: Tyler_Long[/52.144.111.182:14394] logged in with entity id 10141 at (-115.49214831341045, 63.0, 6013.539754301957)
+[14:28:26] [Server thread/INFO]: Tyler_Long joined the game
+[14:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[14:40:22] [Server thread/WARN]: Tyler_Long moved too quickly! -9.372439392538013,1.0,3.989928214761676
+[14:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[14:43:24] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.8207455416111316,0.0,10.367560671542378
+[14:43:24] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.8523126778269443,0.0,10.766313005063239
+[14:43:24] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.8838798140427571,0.0,11.1650653385841
+[14:43:24] [Server thread/WARN]: Boat (vehicle of Tyler_Long) moved too quickly! -0.9154469502585698,0.0,11.56381767210496
+[14:43:55] [Server thread/WARN]: Tyler_Long moved wrongly!
+[14:45:24] [Server thread/WARN]: Tyler_Long moved too quickly! 2.7789069824052604,1.9275721963195593,9.602864289816353
+[14:45:40] [Server thread/WARN]: Tyler_Long moved too quickly! 4.369528551279245,-2.580000013113022,8.85662164623136
+[14:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[14:55:27] [Server thread/WARN]: Tyler_Long moved too quickly! -7.770753934587447,0.6754387601295093,6.414678642961007
+[14:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[15:00:31] [Server thread/WARN]: Tyler_Long moved too quickly! 4.220212620355596,6.249187078744683,6.727393071489132
+[15:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3582ms or 71 ticks behind
+[15:05:22] [Server thread/INFO]: Tyler_Long has made the advancement [We Need to Go Deeper]
+[15:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[15:06:21] [Server thread/INFO]: <Tyler_Long> 50, 50, 1350
+[15:10:40] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[15:10:40] [Server thread/INFO]: Tyler_Long left the game
+[16:19:44] [User Authenticator #10/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[16:19:44] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:52955] logged in with entity id 25838 at (-1971.772721047001, 64.0, -266.52883183232547)
+[16:19:44] [Server thread/INFO]: MetYourDestiny joined the game
+[16:19:47] [User Authenticator #11/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[16:19:47] [Server thread/INFO]: MetYourDestiny lost connection: You logged in from another location
+[16:19:47] [Server thread/INFO]: MetYourDestiny left the game
+[16:19:47] [Server thread/WARN]: handleDisconnection() called twice
+[16:19:47] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:52958] logged in with entity id 26144 at (-1969.4427509935922, 64.0, -265.6943546891085)
+[16:19:47] [Server thread/INFO]: MetYourDestiny joined the game
+[16:40:35] [Server thread/WARN]: MetYourDestiny moved too quickly! -2.96043738114804,-2.176759275064242,-9.428210660154349
+[16:52:40] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[16:52:40] [Server thread/INFO]: MetYourDestiny left the game
+[17:28:46] [User Authenticator #12/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[17:28:46] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:53425] logged in with entity id 36198 at (-1968.9208243803296, 64.0, -264.93441259014344)
+[17:28:46] [Server thread/INFO]: MetYourDestiny joined the game
+[17:35:35] [Server thread/WARN]: MetYourDestiny moved too quickly! 9.564190542245342,-1.0,-3.094815765302542
+[17:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[17:55:55] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[18:37:19] [Server thread/INFO]: Villager axw['Farmer'/45232, l='world', x=-1931.70, y=62.19, z=-231.77] died, message: 'Farmer was slain by Zombie'
+[18:53:48] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[18:53:48] [Server thread/INFO]: MetYourDestiny left the game
+[20:31:06] [User Authenticator #13/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[20:31:06] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:54289] logged in with entity id 53567 at (-1958.700000025332, 63.0000002, -245.70000002533197)
+[20:31:06] [Server thread/INFO]: MetYourDestiny joined the game
+[20:34:15] [Server thread/INFO]: MetYourDestiny has made the advancement [A Seedy Place]
+[20:38:31] [User Authenticator #14/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[20:38:31] [Server thread/INFO]: N0VA_ow[/76.164.110.125:58267] logged in with entity id 54911 at (1350.0674473133874, 64.0, -2068.300000011921)
+[20:38:31] [Server thread/INFO]: N0VA_ow joined the game
+[20:44:15] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [Server thread/INFO]: <N0VA_ow> z
+[20:44:16] [User Authenticator #15/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[20:44:17] [Server thread/INFO]: bengermany64[/52.128.53.146:28568] logged in with entity id 57276 at (2120.5731353733554, 74.5625, 284.4599545145834)
+[20:44:17] [Server thread/INFO]: bengermany64 joined the game
+[20:44:23] [Server thread/INFO]: <N0VA_ow> z
+[20:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:44:55] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:56] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:56] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:56] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:56] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:56] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:57] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:57] [Server thread/INFO]: <MetYourDestiny> z
+[20:44:59] [Server thread/INFO]: <bengermany64> z
+[20:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[20:45:40] [Server thread/WARN]: N0VA_ow moved too quickly! -0.8357462262281388,-0.07242780368044066,-10.318195294644283
+[20:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[20:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[20:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[20:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:50:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:51:01] [Server thread/WARN]: N0VA_ow moved too quickly! -3.872449208076432,-6.844478247056884,7.1465366387340055
+[20:51:01] [Server thread/WARN]: bengermany64 moved too quickly! -8.24640058505338,-2.0,-5.700555708143099
+[20:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[20:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[20:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[20:56:10] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[20:56:10] [Server thread/INFO]: N0VA_ow left the game
+[20:56:15] [Server thread/INFO]: <bengermany64> z
+[20:56:34] [User Authenticator #16/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[20:56:34] [Server thread/INFO]: N0VA_ow[/76.164.110.125:58309] logged in with entity id 66027 at (793.4087315692511, 71.0, -455.97811719841593)
+[20:56:34] [Server thread/INFO]: N0VA_ow joined the game
+[20:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[20:58:55] [User Authenticator #17/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[20:58:55] [Server thread/INFO]: Tyler_Long[/52.144.111.182:3254] logged in with entity id 67132 at (-313.80752706448146, 75.0, 1400.3895939208971)
+[20:58:55] [Server thread/INFO]: Tyler_Long joined the game
+[20:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[20:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10750ms or 215 ticks behind
+[21:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[21:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[21:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3172ms or 63 ticks behind
+[21:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
+[21:01:43] [Server thread/WARN]: Tyler_Long moved too quickly! 2.770364395544675,1.252203340253729,9.794378998329421
+[21:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[21:03:05] [Server thread/INFO]: Tyler_Long has made the advancement [A Terrible Fortress]
+[21:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[21:04:22] [Server thread/INFO]: <Tyler_Long> tried to swim in lava
+[21:04:36] [Server thread/INFO]: <MetYourDestiny> stopped caring
+[21:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[21:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
+[21:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12699ms or 253 ticks behind
+[21:06:15] [Server thread/INFO]: Tyler_Long has made the advancement [Into Fire]
+[21:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[21:06:37] [Server thread/INFO]: <Tyler_Long> died
+[21:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[21:06:52] [Server thread/INFO]: <MetYourDestiny> died by mysterious causes
+[21:06:52] [Server thread/INFO]: <N0VA_ow> starved to death
+[21:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[21:07:25] [Server thread/WARN]: MetYourDestiny moved too quickly! 5.406012499961776,0.2468000194787976,-8.484501702498143
+[21:08:06] [Server thread/INFO]: <N0VA_ow> z
+[21:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21:08:14] [Server thread/INFO]: <bengermany64> z
+[21:08:17] [Server thread/INFO]: <N0VA_ow> z
+[21:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
+[21:08:33] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[21:08:33] [Server thread/INFO]: MetYourDestiny left the game
+[21:08:40] [User Authenticator #18/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[21:08:40] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:54334] logged in with entity id 73623 at (-722.3201161051572, 62.0, 137.85302904490675)
+[21:08:40] [Server thread/INFO]: MetYourDestiny joined the game
+[21:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4457ms or 89 ticks behind
+[21:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[21:12:43] [Server thread/WARN]: Tyler_Long moved too quickly! 9.508337231194389,-1.2491870787446828,-3.5872199998216274
+[21:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:15:03] [Server thread/INFO]: <Tyler_Long> hit the ground too hard
+[21:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[21:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21:19:31] [Server thread/INFO]: <bengermany64> z
+[21:19:45] [Server thread/WARN]: MetYourDestiny was kicked for floating too long!
+[21:19:45] [Server thread/INFO]: MetYourDestiny lost connection: Flying is not enabled on this server
+[21:19:45] [Server thread/INFO]: MetYourDestiny left the game
+[21:19:45] [Server thread/WARN]: handleDisconnection() called twice
+[21:19:55] [User Authenticator #19/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[21:19:55] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:54373] logged in with entity id 80414 at (-17.700000025331974, 75.5625002, 158.29999997466803)
+[21:19:55] [Server thread/INFO]: MetYourDestiny joined the game
+[21:20:01] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[21:20:01] [Server thread/INFO]: Tyler_Long left the game
+[21:20:04] [Server thread/INFO]: <MetYourDestiny> z
+[21:20:13] [User Authenticator #20/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:20:14] [Server thread/INFO]: Tyler_Long[/52.144.111.182:26912] logged in with entity id 80439 at (532.4875000119209, 62.0, 11581.488208767038)
+[21:20:14] [Server thread/INFO]: Tyler_Long joined the game
+[21:20:28] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[21:20:28] [Server thread/INFO]: Tyler_Long left the game
+[21:20:35] [User Authenticator #21/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:20:35] [Server thread/INFO]: Tyler_Long[/52.144.111.182:26914] logged in with entity id 80693 at (533.905121447827, 62.0, 11581.35849697638)
+[21:20:35] [Server thread/INFO]: Tyler_Long joined the game
+[21:20:47] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[21:20:47] [Server thread/INFO]: Tyler_Long left the game
+[21:20:54] [User Authenticator #22/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:20:54] [Server thread/INFO]: Tyler_Long[/52.144.111.182:14398] logged in with entity id 80823 at (526.9965012684777, 74.0, 11605.377170501828)
+[21:20:54] [Server thread/INFO]: Tyler_Long joined the game
+[21:21:23] [Server thread/INFO]: Tyler_Long has made the advancement [Best Friends Forever]
+[21:21:43] [Server thread/INFO]: Tyler_Long has made the advancement [The Parrots and the Bats]
+[21:22:45] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[21:22:45] [Server thread/INFO]: bengermany64 left the game
+[21:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[21:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[21:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[21:28:11] [Server thread/WARN]: Tyler_Long moved wrongly!
+[21:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5875ms or 117 ticks behind
+[21:29:02] [Server thread/INFO]: <Tyler_Long> drowned
+[21:29:06] [Server thread/INFO]: <MetYourDestiny> drowned
+[21:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21:30:17] [Server thread/WARN]: Tyler_Long moved wrongly!
+[21:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7910ms or 158 ticks behind
+[21:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6175ms or 123 ticks behind
+[21:30:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
+[21:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6319ms or 126 ticks behind
+[21:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[21:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
+[21:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
+[21:33:02] [Server thread/INFO]: <N0VA_ow> z
+[21:33:04] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[21:33:04] [Server thread/INFO]: Tyler_Long left the game
+[21:33:20] [User Authenticator #23/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[21:33:20] [Server thread/INFO]: Tyler_Long[/52.144.111.182:42162] logged in with entity id 88981 at (865.4137769826472, 63.09375, 14023.97459396672)
+[21:33:20] [Server thread/INFO]: Tyler_Long joined the game
+[21:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[21:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21:35:52] [Server thread/INFO]: MetYourDestiny has made the advancement [We Need to Go Deeper]
+[21:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
+[21:36:13] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[21:36:13] [Server thread/INFO]: N0VA_ow left the game
+[21:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
+[21:39:06] [Server thread/WARN]: MetYourDestiny moved too quickly! 5.664422184536875,-4.0693823765600285,-7.248608646532574
+[21:39:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
+[21:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[21:45:58] [User Authenticator #24/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[21:45:58] [Server thread/INFO]: N0VA_ow[/76.164.110.125:58437] logged in with entity id 95027 at (290.13354017178165, 65.0, 269.8699256926245)
+[21:45:58] [Server thread/INFO]: N0VA_ow joined the game
+[21:48:23] [Server thread/INFO]: Tyler_Long has made the advancement [What a Deal!]
+[21:49:13] [Server thread/WARN]: MetYourDestiny moved too quickly! 9.495762720483867,0.5009966402674735,3.43082348112182
+[21:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[21:49:13] [Server thread/WARN]: N0VA_ow moved too quickly! 5.205608495132594,-0.08609407931551516,-8.706980575998102
+[21:54:16] [Server thread/WARN]: N0VA_ow moved too quickly! 10.003389677892642,0.02442408821369213,-2.1696455875182323
+[21:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[21:54:16] [Server thread/WARN]: Tyler_Long moved wrongly!
+[21:55:46] [Server thread/INFO]: MetYourDestiny has made the advancement [A Terrible Fortress]
+[21:55:59] [Server thread/INFO]: <N0VA_ow> sleep
+[21:56:41] [Server thread/INFO]: MetYourDestiny has made the advancement [Into Fire]
+[21:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[22:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[22:06:14] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[22:06:14] [Server thread/INFO]: N0VA_ow left the game
+[22:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[22:14:28] [Server thread/WARN]: MetYourDestiny moved too quickly! 8.91624171017105,1.3767356137817188,4.415211933482851
+[22:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[22:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[22:23:07] [User Authenticator #25/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[22:23:07] [Server thread/INFO]: bengermany64[/52.128.53.146:32647] logged in with entity id 107640 at (-16.69999998807907, 75.0, 159.69999998807907)
+[22:23:07] [Server thread/INFO]: bengermany64 joined the game
+[22:23:13] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[22:23:13] [Server thread/INFO]: bengermany64 left the game
+[22:23:21] [User Authenticator #26/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[22:23:21] [Server thread/INFO]: bengermany64[/52.128.53.146:32649] logged in with entity id 107805 at (-18.15388480379429, 75.0, 155.46920139626633)
+[22:23:21] [Server thread/INFO]: bengermany64 joined the game
+[22:24:10] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[22:24:10] [Server thread/INFO]: bengermany64 left the game
+[22:24:17] [User Authenticator #27/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[22:24:17] [Server thread/INFO]: bengermany64[/52.128.53.146:32672] logged in with entity id 108180 at (-40.081835255024764, 72.0, 204.7388840694391)
+[22:24:17] [Server thread/INFO]: bengermany64 joined the game
+[22:24:33] [Server thread/WARN]: MetYourDestiny moved too quickly! -2.4077703361292038,-8.584354139212536,-4.990597419943484
+[22:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[22:25:38] [Server thread/INFO]: bengermany64 has made the advancement [We Need to Go Deeper]
+[22:27:57] [Server thread/INFO]: Villager axw['Villager'/92148, l='world', x=1103.32, y=62.00, z=14918.49] died, message: 'Villager was slain by Zombie'
+[22:29:35] [Server thread/INFO]: <bengermany64> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:29:35] [Server thread/INFO]: <bengermany64> z
+[22:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[22:29:35] [Server thread/INFO]: <bengermany64> z
+[22:29:36] [Server thread/INFO]: <bengermany64> z
+[22:29:42] [Server thread/INFO]: <Tyler_Long> z
+[22:31:03] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[22:31:03] [Server thread/INFO]: Tyler_Long left the game
+[22:34:06] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[22:34:06] [Server thread/INFO]: bengermany64 left the game
+[22:34:46] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[22:34:46] [Server thread/INFO]: MetYourDestiny left the game
+[23:04:18] [User Authenticator #28/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[23:04:18] [Server thread/INFO]: N0VA_ow[/76.164.110.125:58942] logged in with entity id 111163 at (297.7193208584702, 69.0, 332.94999998807907)
+[23:04:18] [Server thread/INFO]: N0VA_ow joined the game
+[23:06:11] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[23:06:11] [Server thread/INFO]: N0VA_ow left the game
+[00:45:25] [User Authenticator #29/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[00:45:25] [Server thread/INFO]: N0VA_ow[/76.164.110.125:59320] logged in with entity id 111683 at (171.6327925510503, 72.0, 397.4986587896213)
+[00:45:25] [Server thread/INFO]: N0VA_ow joined the game
+[00:53:16] [Server thread/INFO]: N0VA_ow has made the advancement [Best Friends Forever]
+[01:31:12] [User Authenticator #30/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[01:31:12] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:53442] logged in with entity id 119424 at (-14.44644997132064, 75.5625, 159.69999998807907)
+[01:31:12] [Server thread/INFO]: MetYourDestiny joined the game
+[01:31:18] [Server thread/INFO]: <MetYourDestiny> bitch
+[01:31:25] [Server thread/INFO]: <MetYourDestiny> fell into lava
+[01:33:35] [Server thread/INFO]: <MetYourDestiny> what are you doing
+[01:33:43] [Server thread/INFO]: <N0VA_ow> vibing
+[01:33:46] [Server thread/INFO]: <MetYourDestiny> i see
+[01:33:50] [Server thread/INFO]: <N0VA_ow> waiting for villager restock
+[01:33:55] [Server thread/INFO]: <MetYourDestiny> where
+[01:33:58] [Server thread/INFO]: <N0VA_ow> my village
+[01:34:02] [Server thread/INFO]: <MetYourDestiny> where is that
+[01:34:21] [Server thread/INFO]: <N0VA_ow> 279 345
+[01:35:22] [Server thread/INFO]: Villager axw['Villager'/64006, l='world', x=279.76, y=68.00, z=349.94] died, message: 'Villager was pricked to death'
+[01:38:26] [Server thread/INFO]: <N0VA_ow> z
+[01:38:38] [Server thread/INFO]: <N0VA_ow> z
+[01:38:38] [Server thread/INFO]: <N0VA_ow> z
+[01:38:39] [Server thread/INFO]: <N0VA_ow> z
+[01:38:39] [Server thread/INFO]: <N0VA_ow> zz
+[01:38:45] [Server thread/INFO]: <N0VA_ow> thats it
+[01:38:59] [Server thread/INFO]: <N0VA_ow> z
+[01:39:00] [Server thread/INFO]: <N0VA_ow> z
+[01:39:00] [Server thread/INFO]: <N0VA_ow> z
+[01:39:01] [Server thread/INFO]: <N0VA_ow> z
+[01:39:01] [Server thread/INFO]: <N0VA_ow> z
+[01:51:29] [User Authenticator #31/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[01:51:29] [Server thread/INFO]: Tyler_Long[/52.144.111.182:39563] logged in with entity id 123207 at (1177.6408489095556, 63.0, 14985.238101745106)
+[01:51:29] [Server thread/INFO]: Tyler_Long joined the game
+[01:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[01:56:21] [User Authenticator #32/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[01:56:21] [Server thread/INFO]: bengermany64[/52.128.53.146:32683] logged in with entity id 125732 at (-16.69999998807907, 75.0, 159.69999998807907)
+[01:56:21] [Server thread/INFO]: bengermany64 joined the game
+[02:00:21] [Server thread/INFO]: <N0VA_ow> Z
+[02:00:34] [Server thread/INFO]: <bengermany64> z
+[02:00:35] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[02:00:35] [Server thread/INFO]: Tyler_Long left the game
+[02:00:42] [User Authenticator #33/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[02:00:43] [Server thread/INFO]: Tyler_Long[/52.144.111.182:39553] logged in with entity id 127511 at (1234.571768726397, 64.0, 14972.467529500596)
+[02:00:43] [Server thread/INFO]: Tyler_Long joined the game
+[02:01:32] [Server thread/INFO]: <bengermany64> 1000, 14860
+[02:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[02:08:39] [Server thread/INFO]: <Tyler_Long> 1200, 15000
+[02:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[02:11:10] [Server thread/INFO]: <bengermany64> z
+[02:11:10] [Server thread/INFO]: <bengermany64> z
+[02:11:11] [Server thread/INFO]: <bengermany64> z
+[02:11:11] [Server thread/INFO]: <bengermany64> z
+[02:11:11] [Server thread/INFO]: <N0VA_ow> z
+[02:11:11] [Server thread/INFO]: <bengermany64> z
+[02:11:28] [Server thread/INFO]: <MetYourDestiny> z
+[02:11:29] [Server thread/INFO]: <Tyler_Long> z
+[02:11:29] [Server thread/INFO]: <Tyler_Long> z
+[02:11:29] [Server thread/INFO]: <Tyler_Long> z
+[02:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[02:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[02:12:52] [User Authenticator #34/INFO]: UUID of player wildfire124 is 6a0d6fdd-c689-4f17-a951-bdd4f71078d2
+[02:12:52] [Server thread/INFO]: wildfire124[/99.113.115.119:49837] logged in with entity id 135697 at (-55.5, 63.0, 48.5)
+[02:12:52] [Server thread/INFO]: wildfire124 joined the game
+[02:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02:12:59] [Server thread/INFO]: <N0VA_ow> whomst?
+[02:13:12] [Server thread/INFO]: <N0VA_ow> ./ban
+[02:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02:13:24] [Server thread/INFO]: <MetYourDestiny> ./stinky jacob
+[02:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[02:13:36] [Server thread/INFO]: <Tyler_Long> 1200, 15000
+[02:13:46] [Server thread/INFO]: <Tyler_Long> 1200, 150000
+[02:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[02:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[02:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02:15:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
+[02:15:18] [Server thread/WARN]: Tyler_Long moved too quickly! -6.551595485135749,0.9031272476744903,-7.623270735137339
+[02:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11219ms or 224 ticks behind
+[02:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9717ms or 194 ticks behind
+[02:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8373ms or 167 ticks behind
+[02:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8886ms or 177 ticks behind
+[02:17:02] [Server thread/WARN]: MetYourDestiny moved too quickly! -1.8908623125717376,-9.718386101000135,-1.4316342151509502
+[02:17:02] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -3.1064622601680867,0.0,9.870516301253701
+[02:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7986ms or 159 ticks behind
+[02:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5290ms or 105 ticks behind
+[02:17:32] [Server thread/WARN]: bengermany64 moved wrongly!
+[02:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[02:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[02:18:19] [Server thread/WARN]: bengermany64 moved wrongly!
+[02:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[02:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[02:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[02:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
+[02:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
+[02:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[02:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5136ms or 102 ticks behind
+[02:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5691ms or 113 ticks behind
+[02:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[02:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10574ms or 211 ticks behind
+[02:21:40] [Server thread/WARN]: Boat moved wrongly!
+[02:21:43] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[02:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7283ms or 145 ticks behind
+[02:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6218ms or 124 ticks behind
+[02:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9330ms or 186 ticks behind
+[02:22:37] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[02:22:37] [Server thread/INFO]: Tyler_Long left the game
+[02:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4184ms or 83 ticks behind
+[02:23:48] [Server thread/INFO]: wildfire124 has made the advancement [A Seedy Place]
+[02:24:38] [Server thread/INFO]: wildfire124 has made the advancement [Sweet Dreams]
+[02:24:40] [Server thread/INFO]: <bengermany64> z
+[02:24:42] [Server thread/INFO]: <N0VA_ow> z
+[02:24:47] [Server thread/INFO]: <wildfire124> z
+[02:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5402ms or 108 ticks behind
+[02:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[02:25:49] [User Authenticator #35/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[02:25:49] [Server thread/INFO]: Tyler_Long[/52.144.111.182:39562] logged in with entity id 146496 at (1598.0148588165673, 61.0, 14399.66034877116)
+[02:25:49] [Server thread/INFO]: Tyler_Long joined the game
+[02:26:03] [Server thread/WARN]: bengermany64 moved wrongly!
+[02:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7169ms or 143 ticks behind
+[02:26:13] [Server thread/INFO]: <Tyler_Long> (Doomfist): I need healing!
+[02:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[02:26:38] [Server thread/INFO]: <wildfire124> wants to attack the objective!
+[02:26:38] [Server thread/INFO]: <MetYourDestiny> (Soldier: 76): I need healing!
+[02:26:55] [Server thread/INFO]: <MetYourDestiny> Stop the payload!
+[02:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:26:58] [Server thread/INFO]: Tyler_Long has made the advancement [Eye Spy]
+[02:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[02:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8300ms or 166 ticks behind
+[02:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
+[02:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12289ms or 245 ticks behind
+[02:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6524ms or 130 ticks behind
+[02:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7440ms or 148 ticks behind
+[02:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6801ms or 136 ticks behind
+[02:29:57] [Server thread/INFO]: <Tyler_Long> 1635, 14405
+[02:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[02:30:20] [Server thread/INFO]: <wildfire124> t
+[02:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8665ms or 173 ticks behind
+[02:30:24] [Server thread/INFO]: <MetYourDestiny> u
+[02:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5271ms or 105 ticks behind
+[02:30:57] [Server thread/INFO]: <Tyler_Long> was slain by your mother!
+[02:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5764ms or 115 ticks behind
+[02:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
+[02:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[02:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7063ms or 141 ticks behind
+[02:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8634ms or 172 ticks behind
+[02:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7536ms or 150 ticks behind
+[02:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9945ms or 198 ticks behind
+[02:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8096ms or 161 ticks behind
+[02:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind
+[02:34:22] [Server thread/INFO]: <wildfire124> left the game
+[02:34:24] [Server thread/INFO]: <Tyler_Long> XD
+[02:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8931ms or 178 ticks behind
+[02:34:34] [Server thread/INFO]: <Tyler_Long> tried to swim in lava
+[02:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:34:44] [Server thread/INFO]: <Tyler_Long> NO!
+[02:34:47] [Server thread/INFO]: <Tyler_Long> :(
+[02:34:54] [Server thread/INFO]: <Tyler_Long> :)
+[02:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[02:36:37] [Server thread/INFO]: <bengermany64> kicked Tyler_long
+[02:37:11] [Server thread/INFO]: wildfire124 has made the advancement [Stone Age]
+[02:37:43] [Server thread/INFO]: N0VA_ow has made the advancement [Eye Spy]
+[02:37:52] [Server thread/INFO]: MetYourDestiny has made the advancement [Eye Spy]
+[02:37:58] [Server thread/INFO]: wildfire124 has made the advancement [Getting an Upgrade]
+[02:38:23] [Server thread/INFO]: <bengermany64> z
+[02:38:25] [Server thread/INFO]: <Tyler_Long> z
+[02:38:30] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:31] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:31] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:31] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:31] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:31] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:32] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:32] [Server thread/INFO]: <N0VA_ow> z
+[02:38:32] [Server thread/INFO]: <MetYourDestiny> z
+[02:38:32] [Server thread/INFO]: <N0VA_ow> zz
+[02:38:32] [Server thread/INFO]: <N0VA_ow> z
+[02:38:32] [Server thread/INFO]: <Tyler_Long> Z
+[02:38:32] [Server thread/INFO]: <N0VA_ow> z
+[02:38:32] [Server thread/INFO]: <N0VA_ow> z
+[02:38:33] [Server thread/INFO]: <N0VA_ow> z
+[02:38:33] [Server thread/INFO]: <N0VA_ow> z
+[02:38:33] [Server thread/INFO]: <N0VA_ow> z
+[02:38:35] [Server thread/INFO]: <Tyler_Long> z
+[02:38:38] [Server thread/INFO]: <bengermany64> z
+[02:38:39] [Server thread/INFO]: <Tyler_Long> N word!
+[02:38:39] [Server thread/INFO]: wildfire124 has made the advancement [Eye Spy]
+[02:38:40] [Server thread/INFO]: <bengermany64> z
+[02:39:14] [Server thread/INFO]: wildfire124 has made the advancement [Suit Up]
+[02:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:40:11] [Server thread/WARN]: bengermany64 moved wrongly!
+[02:40:17] [Server thread/INFO]: <Tyler_Long> 1637 14406
+[02:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
+[02:41:09] [Server thread/INFO]: wildfire124 has made the advancement [Acquire Hardware]
+[02:41:16] [Server thread/INFO]: <Tyler_Long> tried to swim in cum
+[02:41:50] [Server thread/INFO]: N0VA_ow has made the advancement [Not Today, Thank You]
+[02:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4348ms or 86 ticks behind
+[02:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[02:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
+[02:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[02:44:03] [Server thread/INFO]: <Tyler_Long> Bingo!
+[02:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11074ms or 221 ticks behind
+[02:44:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6940ms or 138 ticks behind
+[02:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5200ms or 104 ticks behind
+[02:45:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10832ms or 216 ticks behind
+[02:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8813ms or 176 ticks behind
+[02:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13660ms or 273 ticks behind
+[02:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11769ms or 235 ticks behind
+[02:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13320ms or 266 ticks behind
+[02:47:20] [Server thread/INFO]: N0VA_ow has made the advancement [Diamonds!]
+[02:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11271ms or 225 ticks behind
+[02:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9121ms or 182 ticks behind
+[02:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8071ms or 161 ticks behind
+[02:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5970ms or 119 ticks behind
+[02:49:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4962ms or 99 ticks behind
+[02:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[02:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[02:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7571ms or 151 ticks behind
+[02:50:43] [Server thread/INFO]: <Tyler_Long> tried to swim in lava
+[02:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7596ms or 151 ticks behind
+[02:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6756ms or 135 ticks behind
+[02:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[02:52:04] [Server thread/INFO]: Villager axw['Villager'/164057, l='world', x=1791.37, y=71.56, z=8899.72] died, message: 'Villager suffocated in a wall'
+[02:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
+[02:52:41] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[02:52:41] [Server thread/INFO]: Tyler_Long left the game
+[02:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13320ms or 266 ticks behind
+[02:52:54] [Server thread/INFO]: wildfire124 lost connection: Disconnected
+[02:52:54] [Server thread/INFO]: wildfire124 left the game
+[02:53:01] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[02:53:01] [Server thread/INFO]: N0VA_ow left the game
+[02:53:02] [Server thread/INFO]: <bengermany64> z
+[02:53:03] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[02:53:03] [Server thread/INFO]: MetYourDestiny left the game
+[02:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[02:53:14] [User Authenticator #36/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[02:53:14] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:55602] logged in with entity id 164791 at (891.6825245777341, 67.0, 2436.667692321369)
+[02:53:14] [Server thread/INFO]: MetYourDestiny joined the game
+[02:53:55] [Server thread/WARN]: bengermany64 moved too quickly! -0.062440287498702673,0.5800000131130219,10.093063389411327
+[02:53:55] [Server thread/WARN]: MetYourDestiny moved too quickly! -7.4901555616338555,-0.7508129212553172,-7.010730723076904
+[02:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[02:54:00] [User Authenticator #37/INFO]: UUID of player wildfire124 is 6a0d6fdd-c689-4f17-a951-bdd4f71078d2
+[02:54:00] [Server thread/INFO]: wildfire124[/99.113.115.119:51795] logged in with entity id 165698 at (900.6999999880791, 25.0, 2414.031251022871)
+[02:54:00] [Server thread/INFO]: wildfire124 joined the game
+[02:54:11] [User Authenticator #38/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[02:54:11] [Server thread/INFO]: N0VA_ow[/76.164.110.125:59584] logged in with entity id 165889 at (879.7066124669184, 29.5625, 2443.4659056391865)
+[02:54:11] [Server thread/INFO]: N0VA_ow joined the game
+[02:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5276ms or 105 ticks behind
+[02:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5232ms or 104 ticks behind
+[02:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
+[02:55:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8881ms or 177 ticks behind
+[02:55:38] [Server thread/INFO]: <N0VA_ow> 890 2424
+[02:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10230ms or 204 ticks behind
+[02:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7365ms or 147 ticks behind
+[02:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8437ms or 168 ticks behind
+[02:56:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7870ms or 157 ticks behind
+[02:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12012ms or 240 ticks behind
+[02:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11089ms or 221 ticks behind
+[02:57:57] [Server thread/WARN]: Boat (vehicle of bengermany64) moved too quickly! -0.3967444025270197,0.0,10.392426903843443
+[02:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12620ms or 252 ticks behind
+[02:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
+[02:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7016ms or 140 ticks behind
+[02:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10605ms or 212 ticks behind
+[02:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11637ms or 232 ticks behind
+[03:00:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12310ms or 246 ticks behind
+[03:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11065ms or 221 ticks behind
+[03:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11501ms or 230 ticks behind
+[03:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11644ms or 232 ticks behind
+[03:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12359ms or 247 ticks behind
+[03:02:06] [Server thread/INFO]: <bengermany64> 1635 14405
+[03:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13712ms or 274 ticks behind
+[03:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14069ms or 281 ticks behind
+[03:03:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11220ms or 224 ticks behind
+[03:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11559ms or 231 ticks behind
+[03:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10693ms or 213 ticks behind
+[03:04:28] [Server thread/WARN]: bengermany64 moved wrongly!
+[03:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8541ms or 170 ticks behind
+[03:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10347ms or 206 ticks behind
+[03:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7314ms or 146 ticks behind
+[03:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[03:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
+[03:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:06:39] [Server thread/INFO]: wildfire124 has made the advancement [Monster Hunter]
+[03:08:27] [Server thread/INFO]: <bengermany64> wz
+[03:08:29] [Server thread/INFO]: <bengermany64> z
+[03:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[03:10:07] [Server thread/WARN]: bengermany64 moved wrongly!
+[03:10:50] [User Authenticator #39/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[03:10:50] [Server thread/INFO]: Tyler_Long[/52.144.111.182:39557] logged in with entity id 182555 at (1645.6343464550405, 26.0, 14405.975770614932)
+[03:10:50] [Server thread/INFO]: Tyler_Long joined the game
+[03:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9258ms or 185 ticks behind
+[03:11:24] [Server thread/INFO]: bengermany64 has made the advancement [Eye Spy]
+[03:12:52] [Server thread/INFO]: <Tyler_Long> Thanks!
+[03:12:57] [Server thread/INFO]: <bengermany64> np
+[03:13:01] [Server thread/INFO]: <wildfire124> Understood!
+[03:13:06] [Server thread/INFO]: <wildfire124> Understood.
+[03:13:16] [Server thread/INFO]: <bengermany64> ./trade Trler_long
+[03:13:20] [Server thread/INFO]: <Tyler_Long> (Lucio): I need healing!
+[03:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[03:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:14:48] [Server thread/INFO]: <N0VA_ow> 890 2424
+[03:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[03:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:16:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[03:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+[03:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4369ms or 87 ticks behind
+[03:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
+[03:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4265ms or 85 ticks behind
+[03:20:20] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[03:20:20] [Server thread/INFO]: bengermany64 left the game
+[03:20:25] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[03:20:25] [Server thread/INFO]: Tyler_Long left the game
+[03:21:29] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[03:23:06] [Server thread/INFO]: wildfire124 has made the advancement [Isn't It Iron Pick]
+[03:24:48] [User Authenticator #40/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[03:24:48] [Server thread/INFO]: Tyler_Long[/52.144.111.182:42652] logged in with entity id 189042 at (1644.9984142158467, 26.0, 14404.270995820807)
+[03:24:48] [Server thread/INFO]: Tyler_Long joined the game
+[03:27:30] [User Authenticator #41/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[03:27:30] [Server thread/INFO]: bengermany64[/52.128.53.146:28574] logged in with entity id 189758 at (1638.8931090019298, 26.5625, 14399.085622492874)
+[03:27:30] [Server thread/INFO]: bengermany64 joined the game
+[03:27:50] [Server thread/INFO]: Tyler_Long has made the advancement [The End?]
+[03:27:51] [Server thread/WARN]: Tyler_Long moved too quickly! -1540.489201074293,20.23363200604248,-14403.035450827289
+[03:27:51] [Server thread/INFO]: N0VA_ow has made the advancement [The End?]
+[03:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[03:27:52] [Server thread/INFO]: bengermany64 has made the advancement [The End?]
+[03:27:52] [Server thread/WARN]: N0VA_ow moved too quickly! -791.2387070757167,21.392604549951344,-2418.347746354215
+[03:27:52] [Server thread/INFO]: MetYourDestiny has made the advancement [The End?]
+[03:27:52] [Server thread/INFO]: wildfire124 has made the advancement [The End?]
+[03:27:52] [Server thread/WARN]: bengermany64 moved too quickly! -1540.706128686135,20.464159374955443,-14402.362753947706
+[03:27:52] [Server thread/WARN]: wildfire124 moved too quickly! -791.9726438030049,21.392604549951344,-2418.131888824424
+[03:27:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:27:55] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:27:56] [Server thread/WARN]: MetYourDestiny moved too quickly! -791.7260538436028,21.392604549951344,-2416.7985305025336
+[03:27:56] [Server thread/WARN]: Tyler_Long moved too quickly! -1.949228756390255,-5.0,8.546980202432957
+[03:29:20] [Server thread/INFO]: bengermany64 has made the advancement [Take Aim]
+[03:30:59] [Server thread/INFO]: Tyler_Long has made the advancement [Take Aim]
+[03:31:31] [Server thread/WARN]: Tyler_Long moved too quickly! 1.214170855850007,-0.3235291238557281,-10.111396061710508
+[03:32:03] [Server thread/INFO]: N0VA_ow has made the advancement [Take Aim]
+[03:34:20] [Server thread/INFO]: MetYourDestiny has made the advancement [Take Aim]
+[03:34:31] [Server thread/INFO]: MetYourDestiny was killed by [Intentional Game Design]
+[03:34:32] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at ww.b(SourceFile:201) ~[server.jar:?]
+	at wp.a(SourceFile:904) ~[server.jar:?]
+	at xb.a(SourceFile:479) ~[server.jar:?]
+	at xv.a(SourceFile:848) ~[server.jar:?]
+	at qd.a(SourceFile:122) ~[server.jar:?]
+	at qd$a.a(SourceFile:56) ~[server.jar:?]
+	at lv.a(SourceFile:21) ~[server.jar:?]
+	at tb.run(SourceFile:18) ~[server.jar:?]
+	at ais.c(SourceFile:144) [server.jar:?]
+	at aiw.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:138) [server.jar:?]
+	at ais.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:725) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:719) [server.jar:?]
+	at ais.c(SourceFile:127) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:704) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:659) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[03:34:39] [Server thread/INFO]: bengermany64 has made the advancement [Into Fire]
+[03:39:28] [Server thread/INFO]: Tyler_Long has made the advancement [Remote Getaway]
+[03:39:31] [Server thread/INFO]: N0VA_ow has made the advancement [Remote Getaway]
+[03:39:35] [Server thread/INFO]: wildfire124 has made the advancement [Remote Getaway]
+[03:39:45] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[03:39:45] [Server thread/INFO]: Tyler_Long left the game
+[03:39:53] [User Authenticator #42/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[03:39:53] [Server thread/INFO]: Tyler_Long[/52.144.111.182:42640] logged in with entity id 192309 at (-305.3187683514088, 63.0, -952.3443647989299)
+[03:39:53] [Server thread/INFO]: Tyler_Long joined the game
+[03:44:06] [Server thread/WARN]: Tyler_Long moved too quickly! -7.030911758898839,1.1661092609382138,7.086908745397977
+[03:44:39] [Server thread/WARN]: MetYourDestiny moved too quickly! 6.966920207303758,0.16610926093821377,7.5402906619508485
+[03:44:39] [Server thread/WARN]: bengermany64 moved too quickly! 3.282122923613599,0.0,9.642796895470838
+[03:44:39] [Server thread/WARN]: N0VA_ow moved too quickly! -10.256661178851914,0.16610926093821377,-0.10689475702247364
+[03:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[03:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:49:43] [Server thread/WARN]: MetYourDestiny moved too quickly! -2.2808218496024892,-2.249187078744683,9.529671233568479
+[03:49:43] [Server thread/WARN]: bengermany64 moved too quickly! 0.1676645273361146,0.2336320060424839,10.080524436628366
+[03:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[03:50:48] [Server thread/WARN]: bengermany64 moved too quickly! -791.4905262892405,21.23363200604248,-2418.503009877307
+[03:50:53] [Server thread/WARN]: MetYourDestiny moved too quickly! -791.8177029252538,21.23363200604248,-2418.5551545008634
+[03:52:51] [Server thread/INFO]: bengermany64 has made the advancement [Remote Getaway]
+[03:53:18] [Server thread/INFO]: MetYourDestiny has made the advancement [Remote Getaway]
+[03:54:45] [Server thread/WARN]: MetYourDestiny moved too quickly! 4.1172704373982185,-1.2247629905309978,9.173485512076013
+[03:54:45] [Server thread/WARN]: wildfire124 moved too quickly! -10.045627466864346,-0.8583148272754713,0.7848011429980488
+[03:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[03:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03:59:55] [Server thread/WARN]: Tyler_Long moved too quickly! -1.79958748598267,-0.506135102106235,-10.064735203635337
+[03:59:55] [Server thread/WARN]: wildfire124 moved too quickly! -2.0155017245172644,0.9986640208878512,-9.918712769692547
+[03:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
+[04:00:28] [Server thread/INFO]: Tyler_Long has made the advancement [The City at the End of the Game]
+[04:03:35] [Server thread/INFO]: wildfire124 has made the advancement [The City at the End of the Game]
+[04:03:35] [Server thread/INFO]: N0VA_ow has made the advancement [The City at the End of the Game]
+[04:03:55] [Server thread/INFO]: Tyler_Long has made the advancement [Cover Me With Diamonds]
+[04:04:57] [Server thread/WARN]: N0VA_ow moved too quickly! -1.2181005653162629,-10.069564418532849,-1.4677221335136892
+[04:08:55] [Server thread/INFO]: bengermany64 has made the advancement [The City at the End of the Game]
+[04:09:00] [Server thread/INFO]: MetYourDestiny has made the advancement [The City at the End of the Game]
+[04:13:57] [Server thread/INFO]: <bengermany64> so basicly i have no pearls
+[04:15:32] [Server thread/INFO]: wildfire124 has made the advancement [Not Today, Thank You]
+[04:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:19:32] [Server thread/INFO]: Tyler_Long has made the advancement [Local Brewery]
+[04:19:43] [Server thread/INFO]: Tyler_Long has reached the goal [Sky's the Limit]
+[04:19:49] [Server thread/INFO]: Tyler_Long has made the advancement [Diamonds!]
+[04:20:00] [Server thread/WARN]: wildfire124 moved too quickly! -2.0662042131907583,2.024424088213685,-9.77847756410938
+[04:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[04:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:26:43] [Server thread/WARN]: Fetching packet for removed entity awb['Purpur Pillar'/208048, l='world', x=-1506.21, y=85.50, z=-3499.88]
+[04:27:51] [Server thread/INFO]: MetYourDestiny fell from a high place
+[04:27:56] [Server thread/INFO]: <N0VA_ow> this is so sad
+[04:30:04] [Server thread/WARN]: wildfire124 moved too quickly! 2.6260815845080288,2.176759275064242,-9.636648752776182
+[04:30:04] [Server thread/WARN]: N0VA_ow moved too quickly! -2.3477897732975634,0.04353562014749457,-9.848702992602284
+[04:30:04] [Server thread/WARN]: Tyler_Long moved too quickly! -1.566132417034396,0.3767356137817188,-9.96787211905712
+[04:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04:35:21] [Server thread/INFO]: <N0VA_ow> z
+[04:35:22] [Server thread/INFO]: <N0VA_ow> z
+[04:35:22] [Server thread/INFO]: <N0VA_ow> z
+[04:37:49] [Server thread/INFO]: <bengermany64> z
+[04:37:50] [Server thread/INFO]: <bengermany64> z
+[04:37:50] [Server thread/INFO]: <bengermany64> z
+[04:40:20] [Server thread/INFO]: <bengermany64> operation find new home location
+[04:40:26] [Server thread/INFO]: <N0VA_ow> is a go
+[04:40:29] [Server thread/INFO]: <N0VA_ow> !
+[04:40:48] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[04:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[04:46:05] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[04:48:33] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:48:53] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[04:49:55] [Server thread/INFO]: Tyler_Long has reached the goal [The Next Generation]
+[04:50:06] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[04:50:07] [Server thread/WARN]: N0VA_ow moved wrongly!
+[04:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[04:50:28] [Server thread/INFO]: MetYourDestiny has reached the goal [The Next Generation]
+[04:50:31] [Server thread/INFO]: N0VA_ow has reached the goal [The Next Generation]
+[04:50:34] [Server thread/INFO]: bengermany64 has reached the goal [The Next Generation]
+[04:50:45] [Server thread/INFO]: <N0VA_ow> z
+[04:51:02] [Server thread/INFO]: <N0VA_ow> z
+[04:51:02] [Server thread/INFO]: <N0VA_ow> z
+[04:51:02] [Server thread/INFO]: <N0VA_ow> z
+[04:51:03] [Server thread/INFO]: <N0VA_ow> z
+[04:51:03] [Server thread/INFO]: <N0VA_ow> z
+[04:51:03] [Server thread/INFO]: <N0VA_ow> z
+[04:51:03] [Server thread/INFO]: <N0VA_ow> z
+[04:51:05] [Server thread/INFO]: <N0VA_ow> z
+[04:51:18] [Server thread/INFO]: Tyler_Long lost connection: Disconnected
+[04:51:18] [Server thread/INFO]: Tyler_Long left the game
+[04:51:20] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[04:51:20] [Server thread/INFO]: bengermany64 left the game
+[04:51:25] [Server thread/INFO]: wildfire124 lost connection: Disconnected
+[04:51:25] [Server thread/INFO]: wildfire124 left the game
+[04:51:27] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[04:51:27] [Server thread/INFO]: MetYourDestiny left the game
+[04:51:34] [User Authenticator #43/INFO]: UUID of player Tyler_Long is 6eacbe29-05b5-4525-9340-062fd7bc08d7
+[04:51:35] [Server thread/INFO]: Tyler_Long[/52.144.111.182:14394] logged in with entity id 220753 at (-44.89960509252527, 63.0, 57.7054038201858)
+[04:51:35] [Server thread/INFO]: Tyler_Long joined the game
+[04:51:35] [User Authenticator #44/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[04:51:35] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:58703] logged in with entity id 220754 at (-39.826437938259936, 62.07326524478906, 44.01800584931776)
+[04:51:35] [Server thread/INFO]: MetYourDestiny joined the game
+[04:51:35] [User Authenticator #45/INFO]: UUID of player wildfire124 is 6a0d6fdd-c689-4f17-a951-bdd4f71078d2
+[04:51:35] [Server thread/INFO]: wildfire124[/99.113.115.119:55563] logged in with entity id 220757 at (233.14286149684517, 64.0, 786.1855116839789)
+[04:51:35] [Server thread/INFO]: wildfire124 joined the game
+[04:51:36] [User Authenticator #46/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[04:51:36] [Server thread/INFO]: bengermany64[/52.128.53.146:32678] logged in with entity id 220766 at (-45.45828899632361, 63.0, 62.99492795988993)
+[04:51:36] [Server thread/INFO]: bengermany64 joined the game
+[04:51:48] [Server thread/WARN]: Boat moved wrongly!
+[04:51:48] [Server thread/WARN]: Boat moved wrongly!
+[04:51:48] [Server thread/WARN]: Boat moved wrongly!
+[04:51:48] [Server thread/WARN]: Boat moved wrongly!
+[04:51:58] [Server thread/WARN]: Boat moved wrongly!
+[04:51:58] [Server thread/WARN]: Boat moved wrongly!
+[04:52:03] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[04:52:04] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:52:08] [Server thread/WARN]: Boat moved wrongly!
+[04:52:08] [Server thread/WARN]: Boat moved wrongly!
+[04:52:08] [Server thread/WARN]: Boat moved wrongly!
+[04:52:50] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:52:53] [Server thread/WARN]: Boat moved wrongly!
+[04:53:25] [Server thread/WARN]: Boat moved wrongly!
+[04:53:25] [Server thread/WARN]: Boat moved wrongly!
+[04:54:26] [Server thread/WARN]: Boat moved wrongly!
+[04:54:26] [Server thread/WARN]: Boat moved wrongly!
+[04:54:26] [Server thread/WARN]: Boat moved wrongly!
+[04:54:37] [Server thread/WARN]: bengermany64 moved too quickly! -10.513299815823018,11.979439835298557,16.879478830935142
+[04:54:39] [Server thread/WARN]: N0VA_ow moved wrongly!
+[04:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04:54:45] [Server thread/WARN]: Boat moved wrongly!
+[04:54:45] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:46] [Server thread/WARN]: Boat moved wrongly!
+[04:54:50] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[04:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[04:55:34] [Server thread/WARN]: Boat moved wrongly!
+[04:55:34] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:51] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:54] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:55:55] [Server thread/WARN]: Boat moved wrongly!
+[04:56:12] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:56:43] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:57:33] [Server thread/WARN]: Boat moved wrongly!
+[04:57:33] [Server thread/WARN]: Boat moved wrongly!
+[04:57:33] [Server thread/WARN]: Boat moved wrongly!
+[04:57:34] [Server thread/WARN]: Boat moved wrongly!
+[04:58:01] [Server thread/WARN]: Boat moved wrongly!
+[04:58:01] [Server thread/WARN]: Boat moved wrongly!
+[04:58:01] [Server thread/WARN]: Boat moved wrongly!
+[04:58:01] [Server thread/WARN]: Boat moved wrongly!
+[04:58:01] [Server thread/WARN]: Boat moved wrongly!
+[04:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:58:25] [Server thread/WARN]: Boat moved wrongly!
+[04:58:25] [Server thread/WARN]: Boat moved wrongly!
+[04:58:25] [Server thread/WARN]: Boat moved wrongly!
+[04:58:25] [Server thread/WARN]: Boat moved wrongly!
+[04:58:25] [Server thread/WARN]: Boat moved wrongly!
+[04:58:35] [Server thread/WARN]: Tyler_Long moved wrongly!
+[04:58:56] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[04:58:58] [Server thread/WARN]: wildfire124 moved wrongly!
+[05:00:06] [Server thread/WARN]: wildfire124 moved wrongly!
+[05:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[05:00:38] [Server thread/WARN]: Boat moved wrongly!
+[05:00:38] [Server thread/WARN]: Boat moved wrongly!
+[05:00:38] [Server thread/WARN]: Boat moved wrongly!
+[05:00:38] [Server thread/WARN]: Boat moved wrongly!
+[05:00:38] [Server thread/WARN]: Boat moved wrongly!
+[05:00:41] [Server thread/WARN]: Boat moved wrongly!
+[05:00:48] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:52] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:00:53] [Server thread/WARN]: Boat moved wrongly!
+[05:01:34] [Server thread/WARN]: Boat moved wrongly!
+[05:01:35] [Server thread/WARN]: Boat moved wrongly!
+[05:02:04] [Server thread/WARN]: N0VA_ow moved wrongly!
+[05:02:48] [Server thread/WARN]: Boat moved wrongly!
+[05:02:48] [Server thread/WARN]: Boat moved wrongly!
+[05:02:56] [Server thread/INFO]: <N0VA_ow> z
+[05:03:00] [Server thread/INFO]: <MetYourDestiny> z
+[05:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[05:03:38] [Server thread/WARN]: Tyler_Long moved wrongly!
+[05:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8353ms or 167 ticks behind
+[05:03:42] [Server thread/WARN]: wildfire124 moved wrongly!
+[05:04:01] [Server thread/WARN]: Tyler_Long moved wrongly!
+[05:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5507ms or 110 ticks behind
+[05:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[05:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[05:05:39] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:05:54] [Server thread/WARN]: Tyler_Long moved too quickly! -9.458961390621482,1.0724278036804407,3.7769236011542944
+[05:05:54] [Server thread/WARN]: MetYourDestiny moved too quickly! -10.124230779210166,0.24813599859093927,1.469658226642423
+[05:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[05:08:28] [Server thread/INFO]: <N0VA_ow> z
+[05:08:43] [Server thread/INFO]: <Tyler_Long> z
+[05:08:43] [Server thread/INFO]: <bengermany64> z
+[05:09:11] [Server thread/INFO]: <Tyler_Long> -198 -2102
+[05:09:31] [Server thread/INFO]: <bengermany64> z
+[05:10:57] [Server thread/WARN]: MetYourDestiny moved too quickly! -9.75967138930028,0.023088109101550458,-2.3178038333435325
+[05:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
+[05:12:15] [Server thread/WARN]: Skipping Entity with id 
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -3.8950316079049685,0.0,9.624063165883854
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.022942396339033,0.0,10.002433137642129
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.148493866596141,0.0,10.381581881292277
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.271766373114076,0.0,10.761473209349788
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.392850616398732,0.0,11.142069076903681
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.51183923979255,0.0,11.523331872146628
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.628826662199401,0.0,11.905224492274556
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.7439126472390285,0.0,12.287709443220592
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.85719807794402,0.0,12.670749933037314
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -4.968777419383457,0.0,13.05431172021008
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.0787505400558075,0.0,13.438360139151882
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.187211016163872,0.0,13.822862951478783
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.294246764570005,0.0,14.207790125642532
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.399948070486516,0.0,14.59311183555701
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.504399902854232,0.0,14.978800276620404
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.607682450626157,0.0,15.364829471017401
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.709875333507455,0.0,15.751174220773464
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.811050201780233,0.0,16.13781181045897
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -5.911275264124356,0.0,16.52472087976639
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.010619369175174,0.0,16.911880423730963
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.1091444760463105,0.0,17.299271519258127
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.206906345144546,0.0,17.686877120662302
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.303962625385111,0.0,18.07468013221478
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.4003651998590385,0.0,18.462665156584535
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.496160760552982,0.0,18.850818324998272
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.591395064857409,0.0,19.239126287567615
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -6.686109292559934,0.0,19.62757701821738
+[05:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[05:15:59] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -3.0156557729108613,0.0,10.769651870285543
+[05:16:00] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -3.1094481597026515,0.0,11.15835423894032
+[05:16:00] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -3.2028310297574194,0.0,11.547167691112008
+[05:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[05:17:00] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:17:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[05:17:35] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4617ms or 92 ticks behind
+[05:18:13] [Server thread/INFO]: MetYourDestiny drowned
+[05:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[05:20:02] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[05:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[05:21:15] [Server thread/INFO]: <bengermany64> z
+[05:21:21] [Server thread/WARN]: N0VA_ow moved too quickly! 8.241842332448954,-1.044812420399012,-5.7194995089671465
+[05:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[05:22:03] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:22:30] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[05:23:16] [Server thread/WARN]: Skipping Entity with id 
+[05:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12908ms or 258 ticks behind
+[05:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
+[05:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[05:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[05:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
+[05:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
+[05:28:56] [Server thread/WARN]: wildfire124 moved wrongly!
+[05:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05:30:54] [Server thread/WARN]: bengermany64 moved too quickly! -8.740695659848257,0.8787031594607981,5.007864858819175
+[05:30:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[05:31:12] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:31:32] [Server thread/WARN]: MetYourDestiny moved wrongly!
+[05:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[05:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
+[05:33:32] [Server thread/INFO]: bengermany64 lost connection: Disconnected
+[05:33:32] [Server thread/INFO]: bengermany64 left the game
+[05:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
+[05:35:00] [Server thread/WARN]: Tyler_Long moved too quickly! -9.278742881568064,-2.681558398058314,3.707931721942714
+[05:35:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8548ms or 170 ticks behind
+[05:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[05:36:50] [Server thread/INFO]: wildfire124 has made the advancement [Diamonds!]
+[05:36:59] [Server thread/WARN]: wildfire124 moved wrongly!
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.8055041672574816,0.0,-10.242074968321958
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.8749466352289232,0.0,-10.636000928642034
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.9443891032003648,0.0,-11.029926888962109
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.0138315711718064,0.0,-11.423852849282184
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.083274039143248,0.0,-11.81777880960226
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.1527165071146896,0.0,-12.211704769922335
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.2221589750861312,0.0,-12.60563073024241
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.291601443057573,0.0,-12.999556690562486
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.3610439110290145,0.0,-13.39348265088256
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.430486379000456,0.0,-13.787408611202636
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.4999288469718977,0.0,-14.181334571522711
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.5693713149433393,0.0,-14.575260531842787
+[05:37:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.8055041672574816,0.0,-10.242074968321958
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.8749466352289232,0.0,-10.636000928642034
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -1.9443891032003648,0.0,-11.029926888962109
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.0138315711718064,0.0,-11.423852849282184
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.083274039143248,0.0,-11.81777880960226
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.1527165071146896,0.0,-12.211704769922335
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.2221589750861312,0.0,-12.60563073024241
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.291601443057573,0.0,-12.999556690562486
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.3610439110290145,0.0,-13.39348265088256
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.430486379000456,0.0,-13.787408611202636
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.4999288469718977,0.0,-14.181334571522711
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.5693713149433393,0.0,-14.575260531842787
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.638813782914781,0.0,-14.969186492162862
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.7082562508862225,0.0,-15.363112452482937
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.777698718857664,0.0,-15.757038412803013
+[05:37:40] [Server thread/WARN]: Boat (vehicle of MetYourDestiny) moved too quickly! -2.8471411868291057,0.0,-16.150964373123088
+[05:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[05:38:20] [Server thread/WARN]: Tyler_Long moved too quickly! -9.841903758237805,3.419999986886978,1.5582496874399112
+[05:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[05:38:42] [User Authenticator #47/INFO]: UUID of player bengermany64 is 62c3a8a4-6c00-4fbc-92e1-d4e5d065bf7b
+[05:38:42] [Server thread/INFO]: bengermany64[/52.128.53.146:32650] logged in with entity id 256784 at (-161.96333140686136, 64.0, -2077.1850734488107)
+[05:38:42] [Server thread/INFO]: bengermany64 joined the game
+[05:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[05:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[05:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[05:48:09] [Server thread/WARN]: Fetching packet for removed entity awb['Birch Slab'/260968, l='world', x=-201.42, y=74.15, z=-2085.46]
+[05:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17202ms or 344 ticks behind
+[05:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6980ms or 139 ticks behind
+[05:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5141ms or 102 ticks behind
+[05:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[05:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10076ms or 201 ticks behind
+[05:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[05:58:44] [Server thread/WARN]: N0VA_ow moved too quickly! -8.650902814186423,-5.020679542666713,1.0760742652187218
+[05:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[06:03:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-147, y=62, z=-2131} fk{x=-147, y=61, z=-2131}
+[06:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[06:03:47] [Server thread/WARN]: wildfire124 moved too quickly! -10.040474752244052,0.5061351021062137,0.9736016356296204
+[06:07:12] [Server thread/INFO]: bengermany64 has made the advancement [A Seedy Place]
+[06:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[06:28:20] [Server thread/INFO]: <bengermany64> z
+[06:28:51] [Server thread/INFO]: <Tyler_Long> z
+[06:28:53] [Server thread/INFO]: N0VA_ow lost connection: Disconnected
+[06:28:53] [Server thread/INFO]: N0VA_ow left the game
+[06:28:56] [Server thread/INFO]: MetYourDestiny lost connection: Disconnected
+[06:28:56] [Server thread/INFO]: MetYourDestiny left the game
+[06:29:56] [User Authenticator #48/INFO]: UUID of player N0VA_ow is 06569aed-1c53-4a5f-9780-294e986feeb0
+[06:29:56] [Server thread/INFO]: N0VA_ow[/76.164.110.125:60075] logged in with entity id 279461 at (-285.13847620205604, 21.0, -2193.9839692702785)
+[06:29:56] [Server thread/INFO]: N0VA_ow joined the game
+[06:30:00] [User Authenticator #49/INFO]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[06:30:00] [Server thread/INFO]: MetYourDestiny[/24.253.251.220:62303] logged in with entity id 279496 at (-158.8422022392978, 64.0, -2112.300000011921)
+[06:30:00] [Server thread/INFO]: MetYourDestiny joined the game
+[06:33:08] [Server thread/INFO]: N0VA_ow has made the advancement [Ice Bucket Challenge]
